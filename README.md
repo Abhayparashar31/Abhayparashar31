@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**Abhayparashar31/Abhayparashar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there I'm Abhay 👋
 
 - 🚀 Job Seeker
 - 🤔 I'm currently working on mine personal projects
