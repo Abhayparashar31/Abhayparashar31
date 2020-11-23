@@ -35,10 +35,10 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 ---
 
 ### 📕 Latest Blog Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
 
 
 ➡️ [more blog posts...](https://parasharabhay13.medium.com/)
