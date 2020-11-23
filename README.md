@@ -12,11 +12,15 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 - 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
 - ⚡ Fun fact: I 🧡 🐶S.
 
+<br />
+<br />
+
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+<br />
 
 
 ### Connect with me:
@@ -31,18 +35,20 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
+<br />
 
----
 
 ### 📕 Latest Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/1" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/2" alt="Recent Article 0"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/3" alt="Recent Article 0"> 
 
 
 ➡️ [more blog posts...](https://parasharabhay13.medium.com/)
----
+<br />
+<br />
+
 
 ### Github Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)](https://github.com/Abhayparashar31/github-readme-stats)
