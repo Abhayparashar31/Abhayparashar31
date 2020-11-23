@@ -53,6 +53,7 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 ### Github Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)](https://github.com/Abhayparashar31/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abhayparashar31)](https://github.com/Abhayparashar31/github-readme-stats)
 
 <a href="https://github.com/Abhayparashar31/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
