@@ -17,18 +17,6 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />]
-
-<br />
-<br />
-
----
-
 
 
 ### Connect with me:
@@ -44,7 +32,20 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 <br />
 
+---
 
+### 📕 Latest Blog Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+
+➡️ [more blog posts...](https://parasharabhay13.medium.com/)
+---
+
+### Github Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)](https://github.com/Abhayparashar31/github-readme-stats)
 
 
 
