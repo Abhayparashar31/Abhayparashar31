@@ -1,6 +1,13 @@
 # Abhay parashar  [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://parasharabhay13.medium.com/)
 <br />
 
+<p>
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/abhay-parashar-328488185/)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Abhayparashar31)
+</p>
+
+<br />
+
 Hi I'm Abhay
 
 I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Artificial Intelligence. I am always up for new opportunity. 
