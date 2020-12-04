@@ -19,7 +19,7 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 <br />
 
 
-### Connect with me 📡:
+### Connect with me 📡
 
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
