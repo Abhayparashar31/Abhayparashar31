@@ -6,19 +6,20 @@ Hi I'm Abhay
 
 I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Artificial Intelligence. I am always up for new opportunity. 
 
-- 🚀 Job Seeker
+- 🎯 Job Seeker
 - 🤔 I'm currently working on some personal projects
 - 🌱 I’m currently learning Deep Learning and its frameworks
 - 👯 I’m looking to connect with more people
 - 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
 - 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
 - ⚡ Fun fact: I 🧡 🐶S.
+- 💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
 
 <br />
 <br />
 
 
-### Connect with me:
+### Connect with me 📡:
 
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
