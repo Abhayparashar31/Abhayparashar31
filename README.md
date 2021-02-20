@@ -8,7 +8,7 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 - 🎯 Job Seeker
 - 🤔 I'm currently working on some personal projects
-- 🌱 I’m currently learning Deep Learning and its frameworks
+- 🌱 I’m currently learning DL and its frameworks
 - 👯 I’m looking to connect with more people
 - 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
 - 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
