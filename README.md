@@ -30,8 +30,10 @@
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhayparashar31" alt="abhayparashar" /> </p>
+        
 <br />
-
+<br />
 
 ### 📕 Latest Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@parasharabhay13/0" alt="Recent Article 0"> 
@@ -43,11 +45,8 @@
 ➡️ [more blog posts...](https://parasharabhay13.medium.com/)
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhayparashar31" alt="abhayparashar" /> </p>
-        
+
 <br />  
-        
-### Github Stats
 
 
 
