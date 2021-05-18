@@ -2,8 +2,7 @@
 
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhayparashar31" alt="abhayparashar" /> </p>
-        
+       
 * 🎯 Job Seeker
 * 🤔 I'm currently working on some personal projects
 * 🌱 I’m currently learning DL and its frameworks
