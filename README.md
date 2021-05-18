@@ -2,14 +2,14 @@
 
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 
-- 🎯 Job Seeker
-- 🤔 I'm currently working on some personal projects
-- 🌱 I’m currently learning DL and its frameworks
-- 👯 I’m looking to connect with more people
-- 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
-- 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
-- ⚡ Fun fact: I 🧡 🐶S.
-- 💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
+🎯 Job Seeker
+🤔 I'm currently working on some personal projects
+🌱 I’m currently learning DL and its frameworks
+👯 I’m looking to connect with more people
+📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
+😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
+⚡ Fun fact: I 🧡 🐶S.
+💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
 
 <br />
 <br />
@@ -43,19 +43,7 @@
 
 
 ➡️ [more blog posts...](https://parasharabhay13.medium.com/)
-<br />
-
-
-<br />  
-
-
-
-
-
-
-
-
-
+<br>
 
 
 
