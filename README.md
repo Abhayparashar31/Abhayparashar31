@@ -1,10 +1,8 @@
-# Abhay parashar  [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://parasharabhay13.medium.com/)
-<br />
-
+<h1 align="center">Hi 👋, I'm Abhay</h1>
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhayparashar31" alt="abhayparashar" /> </p>
 
-
-Hi I'm Abhay
+Hi I'm Abhay  [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://parasharabhay13.medium.com/)
 
 I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Artificial Intelligence. I am always up for new opportunity. 
 
