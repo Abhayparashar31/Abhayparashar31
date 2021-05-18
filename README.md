@@ -15,8 +15,11 @@
 <br />
 
 
+<img align="right" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhayparashar31&show_icons=true&&hide=issues,contribscount_private=true&theme=buefy" />
+
+
 ### Connect with me 📡
-<p align='left'>
+
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,7 +28,7 @@
 [<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-</p>
+
 <br />
 <br />
 
@@ -45,8 +48,6 @@
 <br />  
         
 ### Github Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)](https://github.com/Abhayparashar31/github-readme-stats)
-
 
 
 
