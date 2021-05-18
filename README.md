@@ -1,4 +1,4 @@
-<h1> Hi, I am Abhay 👋 </h1>
+<h1 align='center'> Hi, I am Abhay 👋 </h1>
 
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 
@@ -16,7 +16,7 @@
 
 
 ### Connect with me 📡
-
+<p align='left'>
 [<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,7 +25,7 @@
 [<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+</p>
 <br />
 <br />
 
