@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋 , I am Abhay</h1>
+<h1 align='center'> Hi 👋 I am Abhay</h1>
 
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 
