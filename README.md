@@ -4,11 +4,11 @@
 
        
 * 🎯 Job Seeker
-* 🤔 I'm currently working on some personal projects
-* 🌱 I’m currently learning DL and its frameworks
-* 👯 I’m looking to connect with more people
+* 🤔 currently working on some personal projects.
+* 🌱 learning DL and its frameworks.
+* 👯 I’m looking forward to connect with more people.
 * 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
-* 😄 Blog Posts: [Medium](https://medium.com/@abhayparashar31)
+* 😄 Blog Posts: [Medium](https://abhayparashar31.medium.com/)
 * ⚡ Fun fact: I 🧡 🐶S.
 * 💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
 
@@ -24,7 +24,7 @@
 [<img align="left" alt="Twitter" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="YouTube" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+# [<img align="left" alt="YouTube" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Facebook" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Instagram" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -38,11 +38,11 @@
 
 [website]: https://abhayparashar31.github.io/Portfolio/
 [twitter]: https://twitter.com/abhayparashar31
-[youtube]: https://www.youtube.com/channel/UCIUUu8XdhyOWIvibd4jSb-w
-[instagram]: https://www.instagram.com/parasharabhay/?hl=en
-[linkedin]: https://www.linkedin.com/in/abhay-parashar-328488185/
+# [youtube]: https://www.youtube.com/channel/UCIUUu8XdhyOWIvibd4jSb-w
+[instagram]: https://www.instagram.com/abhayparashar31
+[linkedin]: https://www.linkedin.com/in/abhayparashar31/
 
-[medium]: https://medium.com/@abhayparashar31
+[medium]: https://abhayparashar31.medium.com/
 [email]: mailto:parasharabhay13@gmail.com
 [facebook]:https://www.facebook.com/parashar.abhay.7
-[kaggle]:https://www.kaggle.com/parasharabhay
+[kaggle]: https://www.kaggle.com/abhayparashar31
