@@ -31,8 +31,11 @@
 
 <br><br>
 
-<br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0" alt="Recent Article 0"> 
+<br><br><br><br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0" alt="Recent Article 0"/> 
+       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1" alt="Recent Article 0"/> 
+              <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2" alt="Recent Article 0"/> 
+                     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/3" alt="Recent Article 0"/> 
 <br>
 
 [website]: https://abhayparashar31.github.io/Portfolio/
