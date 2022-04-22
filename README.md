@@ -32,10 +32,11 @@
 <br><br>
 
 <br><br><br><br>
-<b>My Latest Articles</b>
+### My Latest Articles 👀
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/0" alt="Recent Article 0"/> 
-       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1" alt="Recent Article 0"/> 
-              <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2" alt="Recent Article 0"/> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/1" alt="Recent Article 0"/> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abhayparashar31/2" alt="Recent Article 0"/> 
 
 <br>
 
