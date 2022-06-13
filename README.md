@@ -14,6 +14,13 @@
 <br />
 <br />
 
+<details>	
+  <summary><b>Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+</details>
+
 
 <img align="right" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhayparashar31&show_icons=true&&hide=issues,contribscount_private=true&theme=buefy" />
 
