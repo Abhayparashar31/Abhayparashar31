@@ -22,8 +22,8 @@ Computer Science Enginner & Tech Writer
 
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
-![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
+![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
 
 
 
@@ -48,19 +48,19 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bird Species Classification with Machine Learning](https://towardsdatascience.com/bird-species-classification-with-machine-learning-914cbc0590b?source=rss-9a24cc840494------2)
-- [My road to 1.5 Million views on Medium](https://medium.com/nerd-for-tech/my-road-to-1-5-million-views-on-medium-b9c87d77534b?source=rss-9a24cc840494------2)
-- [Web Scraping With Just One Click](https://medium.com/geekculture/web-scraping-with-just-one-click-218f76d81fde?source=rss-9a24cc840494------2)
-- [40 Useful Pandas Snippets](https://medium.com/bitgrit-data-science-publication/40-useful-pandas-snippets-d7833472d12f?source=rss-9a24cc840494------2)
-- [Predicting Rain with Machine Learning](https://towardsdatascience.com/predicting-rain-with-machine-learning-2acf80017c44?source=rss-9a24cc840494------2)
-- [10 Tips to Improve Your Regression Modeling](https://medium.com/bitgrit-data-science-publication/10-tips-to-improve-your-regression-modeling-f1af297c505a?source=rss-9a24cc840494------2)
+- [50 Numpy Functions You Really Needed For Data Science](https://levelup.gitconnected.com/50-numpy-functions-you-really-needed-for-data-science-fa09e8eb0cf0)
+- [11 Tools Every Data Scientist Should Have](https://medium.com/pythoneers/11-tools-every-data-scientist-should-have-b9ef010fa599)
+- [The Fundamentals of Web Scraping Using Python & Its Libraries](https://medium.com/pythoneers/the-fundamentals-of-web-scraping-using-python-its-libraries-6f146b91efb4)
+- [Best Practices To Follow While Creating Classes In Python](https://medium.com/pythoneers/best-practices-to-follow-while-creating-classes-in-python-4497bc8535dc)
+- [30 Python Hacks Every Developer Should Know](https://levelup.gitconnected.com/30-python-hacks-every-developer-should-know-11d4b5f95be5)
+- [The Best Ways of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409)
 - [Data Analysis in 10 Easy Steps](https://medium.com/bitgrit-data-science-publication/data-analysis-in-10-easy-steps-f9fc62a29082?source=rss-9a24cc840494------2)
-- [The Missing Library in your Machine Learning Workflow](https://medium.com/bitgrit-data-science-publication/the-missing-library-in-your-machine-learning-workflow-455745f0e66b?source=rss-9a24cc840494------2)
-- [Top Machine Learning Frameworks used by Data Scientists](https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95?source=rss-9a24cc840494------2)
-- [Top Data Science Articles for 2021](https://medium.com/bitgrit-data-science-publication/top-data-science-articles-for-2021-43a67e885ff7?source=rss-9a24cc840494------2)
+- [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6)
+- [Improve Your Model Accuracy With The Help of Meta Learners](https://heartbeat.comet.ml/improve-your-model-accuracy-with-the-help-of-meta-learners-e8cab17b4893)
+- [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da)
 <!-- BLOG-POST-LIST:END -->
 
-↳ [more articles...](abhayparashar31)
+↳ [more articles...](https://medium.com/@abhayparashar31)
 
 <!-- ## Languages and Tools
 
