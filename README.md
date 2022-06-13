@@ -20,10 +20,10 @@ Computer Science Enginner & Tech Writer
 
 
 
-<img src="https://profile-counter.glitch.me/{abhayparashar31}/count.svg" alt="Visitor Count" /> 
+<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
-![](https://raw.githubusercontent.com/abhayparashar31/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/abhayparashar31/stats/master/generated/languages.svg#gh-dark-mode-only)
+![overview](https://raw.githubusercontent.com/Abhayparashar31/stats/master/generated/overview.svg#gh-dark-mode-only)
+![language](https://raw.githubusercontent.com/Abhayparashar31/stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
