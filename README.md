@@ -1,30 +1,29 @@
 
 <!-- <p align="center">
-  <a href="https://benedictxneo.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://dev.to/benthecoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://hackernoon.com/u/benthecoder"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
-  <a href="https://twitter.com/benthecoder1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/benedictneo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rpubs.com/benthecoder"><img src="https://img.shields.io/badge/rpubs-3687C7?style=for-the-badge&logo=R&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/benthecoder"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-  <a href="mailto:benthecoder07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/abhayparashar31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="https://hackernoon.com/u/abhayparashar31"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
+  <a href="https://twitter.com/abhayparashar31"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhayparashar31/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/abhayparashar31"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> -->
 
-## Benedict Neo 
+## Abhay Kumar Parashar
 
-Statistics & CS at Iowa State University
+Computer Science Enginner & Tech Writer
 
-[View my resume](https://benthecoder.github.io/resume/Benedict_Neo_Resume.pdf)
+[View my resume](https://github.com/Abhayparashar31/Abhayparashar31/blob/main/RESUME.pdf)
 
-[![twitter](https://img.shields.io/badge/-@benthecoder1-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/benthecoder1)  
-[![linkedin](https://img.shields.io/badge/-@benedictneo-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/benedictneo/)  
-[![discord](https://img.shields.io/badge/-{ben}%235927-161616?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&color=161616)](https://github.com/benthecoder)
+[![twitter](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/abhayparashar31)  
+[![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/abhayparashar31/)  
 
 
-<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
 
-![github stats overview](https://github.com/benthecoder/stats/blob/generated/overview-dark.svg)
-![github stats languages](https://github.com/benthecoder/stats/blob/generated/languages-dark.svg)
+<img src="https://profile-counter.glitch.me/{abhayparashar31}/count.svg" alt="Visitor Count" /> 
+
+![github stats overview](https://github.com/abhayparashar31/stats/blob/generated/overview-dark.svg)
+![github stats languages](https://github.com/abhayparashar31/stats/blob/generated/languages-dark.svg)
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
@@ -59,10 +58,7 @@ Statistics & CS at Iowa State University
 - [Top Data Science Articles for 2021](https://medium.com/bitgrit-data-science-publication/top-data-science-articles-for-2021-43a67e885ff7?source=rss-9a24cc840494------2)
 <!-- BLOG-POST-LIST:END -->
 
-↳ [more articles...](https://benedictxneo.medium.com/)
-
-<a href="https://ko-fi.com/benthecoder"><img width="200rem" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-1080.png"/></a>
-
+↳ [more articles...](abhayparashar31)
 
 <!-- ## Languages and Tools
 
@@ -94,15 +90,15 @@ Statistics & CS at Iowa State University
 <details>	
   <summary><b>Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benthecoder&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benthecoder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhayparashar31&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayparashar31&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
 </details>
 
 <details>	
   <summary><b>Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benthecoder&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
 </details>
 
 <details>	
