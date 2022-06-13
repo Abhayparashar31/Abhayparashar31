@@ -22,11 +22,8 @@ Computer Science Enginner & Tech Writer
 
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
-<img src="https://raw.githubusercontent.com/Abhayparashar31/stats/master/generated/overview.svg" />
-
-
-![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
-![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
+![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
