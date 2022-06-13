@@ -14,12 +14,12 @@
 <br />
 <br />
 
-	
+<details>	
   <summary><b>Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhayparashar31&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayparashar31&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
-
+</details>
 
 ### Connect with me 📡
 
