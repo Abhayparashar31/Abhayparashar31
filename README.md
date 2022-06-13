@@ -10,7 +10,6 @@
 * 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
 * 😄 Blog Posts: [Medium](https://abhayparashar31.medium.com/)
 * ⚡ Fun fact: I 🧡 🐶S.
-* 💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
 
 <br />
 <br />
@@ -40,7 +39,7 @@
 
 <br>
 
-[website]: https://abhayparashar31.github.io/Portfolio/
+
 [twitter]: https://twitter.com/abhayparashar31
 [instagram]: https://www.instagram.com/abhayparashar31
 [linkedin]: https://www.linkedin.com/in/abhayparashar31/
