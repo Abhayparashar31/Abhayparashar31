@@ -67,11 +67,7 @@ Computer Science Enginner & Tech Writer
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
 ### Github Contribution Streak
-<details>	
-  <summary><b>Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
-</details>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
 
 
 <!-- ## Languages and Tools
