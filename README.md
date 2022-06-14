@@ -50,6 +50,7 @@ Computer Science Enginner & Tech Writer
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
 
+## Social Links
 
 <p align="center">
   <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -62,7 +63,15 @@ Computer Science Enginner & Tech Writer
 </p> 
 
 
+### Visitor Count
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
+
+### Github Contribution Streak
+<details>	
+  <summary><b>Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
+</details>
 
 
 <!-- ## Languages and Tools
@@ -99,12 +108,6 @@ Computer Science Enginner & Tech Writer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayparashar31&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
 </details>
 
-<details>	
-  <summary><b>Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
-</details>
 
 <details>	
   <br />
