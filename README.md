@@ -62,12 +62,12 @@ Computer Science Enginner & Tech Writer
   <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 
-
-### Visitor Count
-<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
-
 ### Github Contribution Streak
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
+
+### Visitor's Count
+<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
+
 
 
 <!-- ## Languages and Tools
