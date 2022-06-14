@@ -4,17 +4,12 @@ Computer Science Enginner & Tech Writer
 
 [View my resume](https://github.com/Abhayparashar31/Abhayparashar31/blob/main/RESUME.pdf)
 
-<!---
+<!--
 [![twitter](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/abhayparashar31)  
 [![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/abhayparashar31/)
 
 [![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/abhayparashar31)
-#20BEFF
 -->
-
-
-<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
-
 
 ![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
 ![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
@@ -65,6 +60,10 @@ Computer Science Enginner & Tech Writer
   <a href="https://www.kaggle.com/abhayparashar31"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
+
+
+<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
+
 
 <!-- ## Languages and Tools
 
