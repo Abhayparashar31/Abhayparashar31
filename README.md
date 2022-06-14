@@ -1,14 +1,3 @@
-
-<p align="center">
-  <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://dev.to/abhayparashar31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://hackernoon.com/u/abhayparashar31"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
-  <a href="https://twitter.com/abhayparashar31"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhayparashar31/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/abhayparashar31"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-  <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p> 
-
 ## Abhay Kumar Parashar
 
 Computer Science Enginner & Tech Writer
@@ -19,15 +8,16 @@ Computer Science Enginner & Tech Writer
 [![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/abhayparashar31/)
 
 [![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/abhayparashar31)
-
+#20BEFF
 
 
 
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
+<!---
 ![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
 ![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
-
+-->
 
 
 <!-- source: https://github.com/jstrieb/github-stats -->
@@ -64,6 +54,17 @@ Computer Science Enginner & Tech Writer
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
+
+
+<p align="center">
+  <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/abhayparashar31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="https://hackernoon.com/u/abhayparashar31"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
+  <a href="https://twitter.com/abhayparashar31"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhayparashar31/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/abhayparashar31"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p> 
 
 <!-- ## Languages and Tools
 
