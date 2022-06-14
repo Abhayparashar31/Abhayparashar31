@@ -17,7 +17,8 @@ Computer Science Enginner & Tech Writer
 
 [![twitter](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/abhayparashar31)  
 [![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/abhayparashar31/)
-[![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=Kaggle&logoColor=white&color=161616)](https://www.kaggle.com/abhayparashar31)
+
+[![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/abhayparashar31)
 
 
 
