@@ -42,7 +42,7 @@ Computer Science Enginner & Tech Writer
 - [Best Practices To Follow While Creating Classes In Python](https://medium.com/pythoneers/best-practices-to-follow-while-creating-classes-in-python-4497bc8535dc)
 - [30 Python Hacks Every Developer Should Know](https://levelup.gitconnected.com/30-python-hacks-every-developer-should-know-11d4b5f95be5)
 - [The Best Ways of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409)
-- [Data Analysis in 10 Easy Steps](https://medium.com/bitgrit-data-science-publication/data-analysis-in-10-easy-steps-f9fc62a29082?source=rss-9a24cc840494------2)
+- [Jupyter Notebook 101: Everything You Need To Know](https://medium.com/pythoneers/jupyter-notebook-101-everything-you-need-to-know-56cda3ea76ef)
 - [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6)
 - [Improve Your Model Accuracy With The Help of Meta Learners](https://heartbeat.comet.ml/improve-your-model-accuracy-with-the-help-of-meta-learners-e8cab17b4893)
 - [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da)
