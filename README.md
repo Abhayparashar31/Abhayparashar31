@@ -121,7 +121,7 @@ Computer Science Enginner & Tech Writer
  ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![Abhay parashar gif](https://github.com/Abhayparashar31/Abhayparashar31/blob/output/ocean.gif)
+![Abhay parashar gif](https://github.com/Abhayparashar31/Abhayparashar31/blob/output/github-snake-dark.svg)
  
 <!--
 
