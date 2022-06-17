@@ -36,16 +36,16 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Numpy Functions You Really Needed For Data Science](https://levelup.gitconnected.com/50-numpy-functions-you-really-needed-for-data-science-fa09e8eb0cf0)
-- [11 Tools Every Data Scientist Should Have](https://medium.com/pythoneers/11-tools-every-data-scientist-should-have-b9ef010fa599)
-- [The Fundamentals of Web Scraping Using Python & Its Libraries](https://medium.com/pythoneers/the-fundamentals-of-web-scraping-using-python-its-libraries-6f146b91efb4)
-- [Best Practices To Follow While Creating Classes In Python](https://medium.com/pythoneers/best-practices-to-follow-while-creating-classes-in-python-4497bc8535dc)
-- [30 Python Hacks Every Developer Should Know](https://levelup.gitconnected.com/30-python-hacks-every-developer-should-know-11d4b5f95be5)
-- [The Best Ways of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409)
-- [Jupyter Notebook 101: Everything You Need To Know](https://medium.com/pythoneers/jupyter-notebook-101-everything-you-need-to-know-56cda3ea76ef)
-- [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6)
-- [Improve Your Model Accuracy With The Help of Meta Learners](https://heartbeat.comet.ml/improve-your-model-accuracy-with-the-help-of-meta-learners-e8cab17b4893)
-- [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da)
+- [The Best Way of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409?source=rss-76f234261155------2)
+- [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6?source=rss-76f234261155------2)
+- [50 Numpy Functions You Really Needed For Data Science](https://levelup.gitconnected.com/50-numpy-functions-you-really-needed-for-data-science-fa09e8eb0cf0?source=rss-76f234261155------2)
+- [10 Useful Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-useful-automation-scripts-you-need-to-try-using-python-de9c993f1f5?source=rss-76f234261155------2)
+- [Improve Your Model Accuracy With The Help of Meta Learners](https://heartbeat.comet.ml/improve-your-model-accuracy-with-the-help-of-meta-learners-e8cab17b4893?source=rss-76f234261155------2)
+- [10 Useful Python Code Snippets For DateTime Analysis](https://medium.com/pythoneers/10-useful-python-code-snippets-for-datetime-analysis-c4553855ccfe?source=rss-76f234261155------2)
+- [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da?source=rss-76f234261155------2)
+- [10 Important Regression Questions You Should Know](https://medium.com/pythoneers/10-important-regression-questions-you-should-know-a074d49d7ada?source=rss-76f234261155------2)
+- [RegEx Simplified Using Python](https://medium.com/pythoneers/regex-simplified-using-python-c31ecb106629?source=rss-76f234261155------2)
+- [The Fundamentals of Web Scraping Using Python &amp; Its Libraries](https://medium.com/pythoneers/the-fundamentals-of-web-scraping-using-python-its-libraries-6f146b91efb4?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
