@@ -36,6 +36,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Train Your Deep Learning Models Faster](https://heartbeat.comet.ml/how-to-train-your-deep-learning-models-faster-dfb521f8ab8b?source=rss-76f234261155------2)
 - [The Best Way of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409?source=rss-76f234261155------2)
 - [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6?source=rss-76f234261155------2)
 - [50 Numpy Functions You Really Needed For Data Science](https://levelup.gitconnected.com/50-numpy-functions-you-really-needed-for-data-science-fa09e8eb0cf0?source=rss-76f234261155------2)
@@ -45,7 +46,6 @@ Computer Science Enginner & Tech Writer
 - [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da?source=rss-76f234261155------2)
 - [10 Important Regression Questions You Should Know](https://medium.com/pythoneers/10-important-regression-questions-you-should-know-a074d49d7ada?source=rss-76f234261155------2)
 - [RegEx Simplified Using Python](https://medium.com/pythoneers/regex-simplified-using-python-c31ecb106629?source=rss-76f234261155------2)
-- [The Fundamentals of Web Scraping Using Python &amp; Its Libraries](https://medium.com/pythoneers/the-fundamentals-of-web-scraping-using-python-its-libraries-6f146b91efb4?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
