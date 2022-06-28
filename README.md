@@ -36,6 +36,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build Better Regression Models](https://heartbeat.comet.ml/how-to-build-better-regression-models-bce90890b7fb?source=rss-76f234261155------2)
 - [How To Train Your Deep Learning Models Faster](https://heartbeat.comet.ml/how-to-train-your-deep-learning-models-faster-dfb521f8ab8b?source=rss-76f234261155------2)
 - [The Best Way of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409?source=rss-76f234261155------2)
 - [The Best In Class Tool For Web Scraping](https://medium.com/pythoneers/the-best-in-class-tool-for-web-scraping-f296424ce9e6?source=rss-76f234261155------2)
@@ -45,7 +46,6 @@ Computer Science Enginner & Tech Writer
 - [10 Useful Python Code Snippets For DateTime Analysis](https://medium.com/pythoneers/10-useful-python-code-snippets-for-datetime-analysis-c4553855ccfe?source=rss-76f234261155------2)
 - [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da?source=rss-76f234261155------2)
 - [10 Important Regression Questions You Should Know](https://medium.com/pythoneers/10-important-regression-questions-you-should-know-a074d49d7ada?source=rss-76f234261155------2)
-- [RegEx Simplified Using Python](https://medium.com/pythoneers/regex-simplified-using-python-c31ecb106629?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
