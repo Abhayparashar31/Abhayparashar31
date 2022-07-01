@@ -36,6 +36,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Evaluate Clustering Based Models In Python?](https://heartbeat.comet.ml/how-to-evaluate-clustering-based-models-in-python-503343816db2?source=rss-76f234261155------2)
 - [How To Build Better Regression Models](https://heartbeat.comet.ml/how-to-build-better-regression-models-bce90890b7fb?source=rss-76f234261155------2)
 - [How To Train Your Deep Learning Models Faster](https://heartbeat.comet.ml/how-to-train-your-deep-learning-models-faster-dfb521f8ab8b?source=rss-76f234261155------2)
 - [The Best Way of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409?source=rss-76f234261155------2)
@@ -45,7 +46,6 @@ Computer Science Enginner & Tech Writer
 - [Improve Your Model Accuracy With The Help of Meta Learners](https://heartbeat.comet.ml/improve-your-model-accuracy-with-the-help-of-meta-learners-e8cab17b4893?source=rss-76f234261155------2)
 - [10 Useful Python Code Snippets For DateTime Analysis](https://medium.com/pythoneers/10-useful-python-code-snippets-for-datetime-analysis-c4553855ccfe?source=rss-76f234261155------2)
 - [The Intuitive Guide For Combining Data Using Pandas](https://medium.com/geekculture/the-intuitive-guide-for-combining-data-using-pandas-fa133cac1da?source=rss-76f234261155------2)
-- [10 Important Regression Questions You Should Know](https://medium.com/pythoneers/10-important-regression-questions-you-should-know-a074d49d7ada?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
