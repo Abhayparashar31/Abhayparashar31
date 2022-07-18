@@ -10,6 +10,7 @@ Computer Science Enginner & Tech Writer
 
 [![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/abhayparashar31)
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)
 
 ![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
 ![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
