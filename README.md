@@ -12,12 +12,13 @@ Computer Science Enginner & Tech Writer
 -->
 
 ![Abhay GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31&show_icons=true&theme=dark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhayparashar31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayparashar31)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayparashar31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--
 ![github stats overview](https://github.com/Abhayparashar31/stats/blob/master/generated/overview.svg)
 ![github stats languages](https://github.com/Abhayparashar31/stats/blob/master/generated/languages.svg)
-
+-->
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
