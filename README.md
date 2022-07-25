@@ -51,7 +51,7 @@ Computer Science Enginner & Tech Writer
 
 ## Social Links
 
-<p align="center">
+<p align="left">
   <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://dev.to/abhayparashar31"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
   <a href="https://hackernoon.com/u/abhayparashar31"><img src="https://img.shields.io/badge/hackernoon-00BB00?style=for-the-badge&logo=hackernoon" /></a>
