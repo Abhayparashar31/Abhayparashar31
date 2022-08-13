@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Problems of Machine Learning Datasets: Part 3](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-3-eae18ab40eda?source=rss-76f234261155------2)
 - [Best Picks — July 2022](https://medium.com/pythoneers/best-picks-july-2022-1f62f49fb87c?source=rss-76f234261155------2)
 - [10 Killer Automation Scripts You Should Try Using Python](https://medium.com/pythoneers/10-killer-automation-scripts-you-should-try-using-python-8d9ae153f3f0?source=rss-76f234261155------2)
 - [Major Problems of Machine Learning Datasets: Part 2](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-2-ba82e551fee2?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [How To Evaluate Clustering Based Models In Python?](https://heartbeat.comet.ml/how-to-evaluate-clustering-based-models-in-python-503343816db2?source=rss-76f234261155------2)
 - [How To Build Better Regression Models](https://heartbeat.comet.ml/how-to-build-better-regression-models-bce90890b7fb?source=rss-76f234261155------2)
 - [How To Train Your Deep Learning Models Faster](https://heartbeat.comet.ml/how-to-train-your-deep-learning-models-faster-dfb521f8ab8b?source=rss-76f234261155------2)
-- [The Best Way of Splitting Data For Machine Learning](https://heartbeat.comet.ml/the-best-way-of-splitting-data-for-machine-learning-54c2f44cf409?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
