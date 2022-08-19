@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Techniques To Tackle Overfitting In Deep Neural Networks](https://heartbeat.comet.ml/4-techniques-to-tackle-overfitting-in-deep-neural-networks-22422c2aa453?source=rss-76f234261155------2)
 - [Major Problems of Machine Learning Datasets: Part 3](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-3-eae18ab40eda?source=rss-76f234261155------2)
 - [Best Picks — July 2022](https://medium.com/pythoneers/best-picks-july-2022-1f62f49fb87c?source=rss-76f234261155------2)
 - [10 Killer Automation Scripts You Should Try Using Python](https://medium.com/pythoneers/10-killer-automation-scripts-you-should-try-using-python-8d9ae153f3f0?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [30 Python One-Liners You Must Try](https://levelup.gitconnected.com/30-python-one-liners-you-must-try-31cf3686fc05?source=rss-76f234261155------2)
 - [How To Evaluate Clustering Based Models In Python?](https://heartbeat.comet.ml/how-to-evaluate-clustering-based-models-in-python-503343816db2?source=rss-76f234261155------2)
 - [How To Build Better Regression Models](https://heartbeat.comet.ml/how-to-build-better-regression-models-bce90890b7fb?source=rss-76f234261155------2)
-- [How To Train Your Deep Learning Models Faster](https://heartbeat.comet.ml/how-to-train-your-deep-learning-models-faster-dfb521f8ab8b?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
