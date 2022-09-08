@@ -35,6 +35,8 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best In Class Android App For Developers](https://medium.com/pythoneers/the-best-in-class-android-app-for-developers-c14f51349376?source=rss-76f234261155------2)
+- [10 Addictive Websites To Visit When You Are Bored](https://medium.com/shortbytes/10-addictive-websites-to-visit-when-you-are-bored-88f63c8d5874?source=rss-76f234261155------2)
 - [How To Perfectly Clean Your Text Data For NLP](https://heartbeat.comet.ml/how-to-perfectly-clean-your-text-data-for-nlp-29cfae79e243?source=rss-76f234261155------2)
 - [Explaining Each Machine Learning Model In Brief](https://levelup.gitconnected.com/explaining-each-machine-learning-model-in-brief-92f82b41ba71?source=rss-76f234261155------2)
 - [4 Techniques To Tackle Overfitting In Deep Neural Networks](https://heartbeat.comet.ml/4-techniques-to-tackle-overfitting-in-deep-neural-networks-22422c2aa453?source=rss-76f234261155------2)
@@ -43,8 +45,6 @@ Computer Science Enginner & Tech Writer
 - [10 Killer Automation Scripts You Should Try Using Python](https://medium.com/pythoneers/10-killer-automation-scripts-you-should-try-using-python-8d9ae153f3f0?source=rss-76f234261155------2)
 - [Major Problems of Machine Learning Datasets: Part 2](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-2-ba82e551fee2?source=rss-76f234261155------2)
 - [Best Python Libraries For Deploying Machine Learning Models As Web App](https://medium.com/pythoneers/best-python-libraries-for-deploying-machine-learning-models-as-web-app-687367c973b7?source=rss-76f234261155------2)
-- [Major Problems of Machine Learning Datasets: Part 1](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-1-5d5a06221c90?source=rss-76f234261155------2)
-- [30 Python One-Liners You Must Try](https://levelup.gitconnected.com/30-python-one-liners-you-must-try-31cf3686fc05?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
