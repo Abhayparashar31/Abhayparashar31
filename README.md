@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
 - [Text Summarization Using Python and NLTK](https://heartbeat.comet.ml/text-summarization-using-python-and-nltk-d1022ac347eb?source=rss-76f234261155------2)
 - [Boost Your Machine Learning Models Using XGBoost](https://heartbeat.comet.ml/boost-your-machine-learning-models-using-xgboost-fa83c8c94ada?source=rss-76f234261155------2)
 - [Topic Modeling Using Python](https://heartbeat.comet.ml/topic-modeling-using-python-424e0f0621a0?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [How To Perfectly Clean Your Text Data For NLP](https://heartbeat.comet.ml/how-to-perfectly-clean-your-text-data-for-nlp-29cfae79e243?source=rss-76f234261155------2)
 - [Explaining Each Machine Learning Model In Brief](https://levelup.gitconnected.com/explaining-each-machine-learning-model-in-brief-92f82b41ba71?source=rss-76f234261155------2)
 - [4 Techniques To Tackle Overfitting In Deep Neural Networks](https://heartbeat.comet.ml/4-techniques-to-tackle-overfitting-in-deep-neural-networks-22422c2aa453?source=rss-76f234261155------2)
-- [Major Problems of Machine Learning Datasets: Part 3](https://heartbeat.comet.ml/major-problems-of-machine-learning-datasets-part-3-eae18ab40eda?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
