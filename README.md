@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
 - [10 Incredible Automation Scripts You Need To Try](https://medium.com/pythoneers/10-incredible-automation-scripts-you-need-to-try-2cdffebb399c?source=rss-76f234261155------2)
 - [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
 - [Text Summarization Using Python and NLTK](https://heartbeat.comet.ml/text-summarization-using-python-and-nltk-d1022ac347eb?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [The Best In Class Android App For Developers](https://medium.com/pythoneers/the-best-in-class-android-app-for-developers-c14f51349376?source=rss-76f234261155------2)
 - [10 Addictive Websites To Visit When You Are Bored](https://medium.com/shortbytes/10-addictive-websites-to-visit-when-you-are-bored-88f63c8d5874?source=rss-76f234261155------2)
 - [How To Perfectly Clean Your Text Data For NLP](https://heartbeat.comet.ml/how-to-perfectly-clean-your-text-data-for-nlp-29cfae79e243?source=rss-76f234261155------2)
-- [Explaining Each Machine Learning Model In Brief](https://levelup.gitconnected.com/explaining-each-machine-learning-model-in-brief-92f82b41ba71?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
