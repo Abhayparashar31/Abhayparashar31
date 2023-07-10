@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Code Habits You Must Avoid for Efficient Programming](https://levelup.gitconnected.com/10-bad-code-habits-to-avoid-in-python-6e45037afc49?source=rss-76f234261155------2)
 - [Major Challenges While Using Selenium With Python](https://medium.com/pythoneers/major-challenges-while-using-selenium-with-python-85cf0b8b066d?source=rss-76f234261155------2)
 - [Different Approaches For Building Recommender Systems Using Python](https://levelup.gitconnected.com/different-approaches-for-building-recommender-systems-using-python-1bd2179fdc8a?source=rss-76f234261155------2)
 - [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [Boost Your Machine Learning Models Using XGBoost](https://heartbeat.comet.ml/boost-your-machine-learning-models-using-xgboost-fa83c8c94ada?source=rss-76f234261155------2)
 - [Topic Modeling Using Python](https://heartbeat.comet.ml/topic-modeling-using-python-424e0f0621a0?source=rss-76f234261155------2)
 - [How To Ensemble Machine Learning Models For Better Performance](https://heartbeat.comet.ml/how-to-ensemble-machine-learning-models-for-better-performance-2d893889b4ae?source=rss-76f234261155------2)
-- [The Best In Class Android App For Developers](https://medium.com/pythoneers/the-best-in-class-android-app-for-developers-c14f51349376?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
