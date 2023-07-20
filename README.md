@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Amazing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-amazing-automation-scripts-you-need-to-try-using-python-e8c1edafcb49?source=rss-76f234261155------2)
 - [Best Picks — July 2023](https://medium.com/pythoneers/best-picks-july-2023-a0ec8abb9638?source=rss-76f234261155------2)
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-b2b2e6cc8c3e?source=rss-76f234261155------2)
 - [Major Challenges While Using Selenium With Python](https://medium.com/pythoneers/major-challenges-while-using-selenium-with-python-85cf0b8b066d?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
 - [Text Summarization Using Python and NLTK](https://heartbeat.comet.ml/text-summarization-using-python-and-nltk-d1022ac347eb?source=rss-76f234261155------2)
 - [Boost Your Machine Learning Models Using XGBoost](https://heartbeat.comet.ml/boost-your-machine-learning-models-using-xgboost-fa83c8c94ada?source=rss-76f234261155------2)
-- [Topic Modeling Using Python](https://heartbeat.comet.ml/topic-modeling-using-python-424e0f0621a0?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
