@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://medium.com/shortbytes/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
 - [10 Amazing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-amazing-automation-scripts-you-need-to-try-using-python-e8c1edafcb49?source=rss-76f234261155------2)
 - [Best Picks — July 2023](https://medium.com/pythoneers/best-picks-july-2023-a0ec8abb9638?source=rss-76f234261155------2)
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-b2b2e6cc8c3e?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [10 Incredible Automation Scripts You Need To Try](https://medium.com/pythoneers/10-incredible-automation-scripts-you-need-to-try-2cdffebb399c?source=rss-76f234261155------2)
 - [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
 - [Text Summarization Using Python and NLTK](https://heartbeat.comet.ml/text-summarization-using-python-and-nltk-d1022ac347eb?source=rss-76f234261155------2)
-- [Boost Your Machine Learning Models Using XGBoost](https://heartbeat.comet.ml/boost-your-machine-learning-models-using-xgboost-fa83c8c94ada?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
