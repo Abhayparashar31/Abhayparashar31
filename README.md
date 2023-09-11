@@ -35,6 +35,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
 - [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://medium.com/shortbytes/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
 - [10 Amazing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-amazing-automation-scripts-you-need-to-try-using-python-e8c1edafcb49?source=rss-76f234261155------2)
 - [Best Picks — July 2023](https://medium.com/pythoneers/best-picks-july-2023-a0ec8abb9638?source=rss-76f234261155------2)
@@ -44,7 +45,6 @@ Computer Science Enginner & Tech Writer
 - [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
 - [10 Incredible Automation Scripts You Need To Try](https://medium.com/pythoneers/10-incredible-automation-scripts-you-need-to-try-2cdffebb399c?source=rss-76f234261155------2)
 - [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
-- [Text Summarization Using Python and NLTK](https://heartbeat.comet.ml/text-summarization-using-python-and-nltk-d1022ac347eb?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
