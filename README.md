@@ -2,8 +2,6 @@
 
 Computer Science Enginner & Tech Writer
 
-[View my resume](https://drive.google.com/file/d/1glnMmMDnKUf93BQjkZoPZ0gw6eoVFHd6/view?usp=sharing)
-
 <!--
 [![twitter](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/abhayparashar31)  
 [![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/abhayparashar31/)
