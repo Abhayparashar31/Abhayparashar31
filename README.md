@@ -39,10 +39,10 @@ Computer Science Enginner & Tech Writer
 - [Best Picks — July 2023](https://medium.com/pythoneers/best-picks-july-2023-a0ec8abb9638?source=rss-76f234261155------2)
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-b2b2e6cc8c3e?source=rss-76f234261155------2)
 - [Major Challenges While Using Selenium With Python](https://medium.com/pythoneers/major-challenges-while-using-selenium-with-python-85cf0b8b066d?source=rss-76f234261155------2)
+- [Comparison between SPL and Python in processing structured data](https://medium.com/pythoneers/comparison-between-spl-and-python-in-processing-structured-data-7d68d22f593a?source=rss-76f234261155------2)
 - [Different Approaches For Building Recommender Systems Using Python](https://levelup.gitconnected.com/different-approaches-for-building-recommender-systems-using-python-1bd2179fdc8a?source=rss-76f234261155------2)
 - [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
 - [10 Incredible Automation Scripts You Need To Try](https://medium.com/pythoneers/10-incredible-automation-scripts-you-need-to-try-2cdffebb399c?source=rss-76f234261155------2)
-- [Vectorization In Machine Learning](https://heartbeat.comet.ml/vectorization-in-machine-learning-2e3bdce7dbe?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
