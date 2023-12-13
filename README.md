@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-93212f9afafb?source=rss-76f234261155------2)
 - [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
 - [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://medium.com/shortbytes/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
 - [10 Amazing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-amazing-automation-scripts-you-need-to-try-using-python-e8c1edafcb49?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Comparison between SPL and Python in processing structured data](https://medium.com/pythoneers/comparison-between-spl-and-python-in-processing-structured-data-7d68d22f593a?source=rss-76f234261155------2)
 - [Different Approaches For Building Recommender Systems Using Python](https://levelup.gitconnected.com/different-approaches-for-building-recommender-systems-using-python-1bd2179fdc8a?source=rss-76f234261155------2)
 - [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
-- [10 Incredible Automation Scripts You Need To Try](https://medium.com/pythoneers/10-incredible-automation-scripts-you-need-to-try-2cdffebb399c?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
