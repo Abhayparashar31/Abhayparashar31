@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Print&lpar;&rpar; Function Secrets I Just Uncovered in Python!](https://medium.com/pythoneers/5-print-function-secrets-i-just-uncovered-in-python-43bf9f214926?source=rss-76f234261155------2)
 - [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-93212f9afafb?source=rss-76f234261155------2)
 - [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
 - [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://medium.com/shortbytes/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Major Challenges While Using Selenium With Python](https://medium.com/pythoneers/major-challenges-while-using-selenium-with-python-85cf0b8b066d?source=rss-76f234261155------2)
 - [Comparison between SPL and Python in processing structured data](https://medium.com/pythoneers/comparison-between-spl-and-python-in-processing-structured-data-7d68d22f593a?source=rss-76f234261155------2)
 - [Different Approaches For Building Recommender Systems Using Python](https://levelup.gitconnected.com/different-approaches-for-building-recommender-systems-using-python-1bd2179fdc8a?source=rss-76f234261155------2)
-- [15 Good Habits Every Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-data-scientist-should-adopt-be884bba121d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
