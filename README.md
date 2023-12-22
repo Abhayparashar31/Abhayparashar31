@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Comet At Different Stages of ML Projects](https://heartbeat.comet.ml/how-to-use-comet-at-different-stages-of-ml-projects-45784e5c0e28?source=rss-76f234261155------2)
 - [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-bc9bc7563633?source=rss-76f234261155------2)
 - [5 Print&lpar;&rpar; Function Secrets I Just Uncovered in Python!](https://medium.com/pythoneers/5-print-function-secrets-i-just-uncovered-in-python-43bf9f214926?source=rss-76f234261155------2)
 - [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-b2b2e6cc8c3e?source=rss-76f234261155------2)
 - [Major Challenges While Using Selenium With Python](https://medium.com/pythoneers/major-challenges-while-using-selenium-with-python-85cf0b8b066d?source=rss-76f234261155------2)
 - [Comparison between SPL and Python in processing structured data](https://medium.com/pythoneers/comparison-between-spl-and-python-in-processing-structured-data-7d68d22f593a?source=rss-76f234261155------2)
-- [Different Approaches For Building Recommender Systems Using Python](https://levelup.gitconnected.com/different-approaches-for-building-recommender-systems-using-python-1bd2179fdc8a?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
