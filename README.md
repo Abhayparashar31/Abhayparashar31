@@ -39,7 +39,7 @@ Computer Science Enginner & Tech Writer
 - [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-bc9bc7563633?source=rss-76f234261155------2)
 - [5 Print&lpar;&rpar; Function Secrets I Just Uncovered in Python!](https://medium.com/pythoneers/5-print-function-secrets-i-just-uncovered-in-python-43bf9f214926?source=rss-76f234261155------2)
 - [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
-- [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://medium.com/shortbytes/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
+- [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://abhayparashar31.medium.com/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
 - [10 Amazing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-amazing-automation-scripts-you-need-to-try-using-python-e8c1edafcb49?source=rss-76f234261155------2)
 - [Best Picks — July 2023](https://medium.com/pythoneers/best-picks-july-2023-a0ec8abb9638?source=rss-76f234261155------2)
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-b2b2e6cc8c3e?source=rss-76f234261155------2)
