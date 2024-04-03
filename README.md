@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Mindblowing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-mindblowing-automation-scripts-you-need-to-try-using-python-8bd935f88125?source=rss-76f234261155------2)
 - [Devin AI: Killing Developer Jobs?](https://medium.com/pythoneers/devin-ai-killing-developer-jobs-1ad3845b8f6d?source=rss-76f234261155------2)
 - [Zero-Day Vulnerability](https://medium.com/pythoneers/zero-day-vulnerability-71acf0b3f8b3?source=rss-76f234261155------2)
 - [Are u Bored?](https://abhayparashar31.medium.com/are-u-bored-339a3710eb19?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-bc9bc7563633?source=rss-76f234261155------2)
 - [5 Print&lpar;&rpar; Function Secrets I Just Uncovered in Python!](https://medium.com/pythoneers/5-print-function-secrets-i-just-uncovered-in-python-43bf9f214926?source=rss-76f234261155------2)
 - [ChatGPT: Boon or Curse?](https://medium.com/pythoneers/chatgpt-boon-or-curse-1059fbb2bd35?source=rss-76f234261155------2)
-- [Elon Musk and His Never Ending Obsession With Letter ‘X’](https://abhayparashar31.medium.com/elon-musk-and-his-never-ending-obsession-with-letter-x-cda715313949?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
