@@ -36,7 +36,7 @@ Computer Science Enginner & Tech Writer
 - [7 Crazy Python Easter Eggs You Probably Haven’t Seen](https://medium.com/pythoneers/7-crazy-python-easter-eggs-you-probably-havent-seen-025f4e23c813?source=rss-76f234261155------2)
 - [10 Mindblowing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-mindblowing-automation-scripts-you-need-to-try-using-python-8bd935f88125?source=rss-76f234261155------2)
 - [Devin AI: Killing Developer Jobs?](https://medium.com/pythoneers/devin-ai-killing-developer-jobs-1ad3845b8f6d?source=rss-76f234261155------2)
-- [Zero-Day Vulnerability](https://medium.com/pythoneers/zero-day-vulnerability-71acf0b3f8b3?source=rss-76f234261155------2)
+- [Zero-Day Vulnerability](https://medium.com/cybersharks/zero-day-vulnerability-71acf0b3f8b3?source=rss-76f234261155------2)
 - [Are u Bored?](https://abhayparashar31.medium.com/are-u-bored-339a3710eb19?source=rss-76f234261155------2)
 - [20 Key Things Every Data Scientist Needs To Understand to Be in the Top 1%](https://medium.com/pythoneers/20-key-things-every-data-scientist-needs-to-understand-to-be-in-the-top-1-64b3461bbb70?source=rss-76f234261155------2)
 - [10 Underrated Python Packages You Must Try](https://medium.com/pythoneers/10-underrated-python-packages-you-must-try-a1cebcf71f07?source=rss-76f234261155------2)
