@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13 Amazing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/13-amazing-python-features-you-are-not-using-enough-d6020916cba1?source=rss-76f234261155------2)
 - [7 Crazy Python Easter Eggs You Probably Haven’t Seen](https://medium.com/pythoneers/7-crazy-python-easter-eggs-you-probably-havent-seen-025f4e23c813?source=rss-76f234261155------2)
 - [10 Mindblowing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-mindblowing-automation-scripts-you-need-to-try-using-python-8bd935f88125?source=rss-76f234261155------2)
 - [Devin AI: Killing Developer Jobs?](https://medium.com/pythoneers/devin-ai-killing-developer-jobs-1ad3845b8f6d?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [10 Underrated Python Packages You Must Try](https://medium.com/pythoneers/10-underrated-python-packages-you-must-try-a1cebcf71f07?source=rss-76f234261155------2)
 - [How To Use Comet At Different Stages of ML Projects](https://heartbeat.comet.ml/how-to-use-comet-at-different-stages-of-ml-projects-45784e5c0e28?source=rss-76f234261155------2)
 - [10 Impressive Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-impressive-automation-scripts-you-need-to-try-using-python-bc9bc7563633?source=rss-76f234261155------2)
-- [5 Print&lpar;&rpar; Function Secrets I Just Uncovered in Python!](https://medium.com/pythoneers/5-print-function-secrets-i-just-uncovered-in-python-43bf9f214926?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
