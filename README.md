@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Packages I Use To Elevate My Codebase Standards](https://medium.com/pythoneers/10-python-packages-i-use-to-elevate-my-codebase-standards-df9a19d9e766?source=rss-76f234261155------2)
 - [17 Mindblowing Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284?source=rss-76f234261155------2)
 - [13 Amazing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/13-amazing-python-features-you-are-not-using-enough-d6020916cba1?source=rss-76f234261155------2)
 - [7 Crazy Python Easter Eggs You Probably Haven’t Seen](https://medium.com/pythoneers/7-crazy-python-easter-eggs-you-probably-havent-seen-025f4e23c813?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Are u Bored?](https://abhayparashar31.medium.com/are-u-bored-339a3710eb19?source=rss-76f234261155------2)
 - [20 Key Things Every Data Scientist Needs To Understand to Be in the Top 1%](https://medium.com/pythoneers/20-key-things-every-data-scientist-needs-to-understand-to-be-in-the-top-1-64b3461bbb70?source=rss-76f234261155------2)
 - [10 Underrated Python Packages You Must Try](https://medium.com/pythoneers/10-underrated-python-packages-you-must-try-a1cebcf71f07?source=rss-76f234261155------2)
-- [How To Use Comet At Different Stages of ML Projects](https://heartbeat.comet.ml/how-to-use-comet-at-different-stages-of-ml-projects-45784e5c0e28?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
