@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [27 Ways To Write Better Python Code](https://medium.com/pythoneers/27-ways-to-write-better-python-code-8c08d8a44999?source=rss-76f234261155------2)
+- [25 Amazing Python Tricks That Will Instantly Improve Your Code](https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f?source=rss-76f234261155------2)
 - [10 Python Packages I Use To Elevate My Codebase Standards](https://medium.com/pythoneers/10-python-packages-i-use-to-elevate-my-codebase-standards-df9a19d9e766?source=rss-76f234261155------2)
 - [17 Mindblowing Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284?source=rss-76f234261155------2)
 - [13 Amazing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/13-amazing-python-features-you-are-not-using-enough-d6020916cba1?source=rss-76f234261155------2)
