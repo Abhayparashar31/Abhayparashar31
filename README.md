@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 MindBlowing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/9-mindblowing-python-features-you-arent-using-enough-f9b80c9b39a0?source=rss-76f234261155------2)
 - [25 Amazing Python Tricks That Will Instantly Improve Your Code](https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f?source=rss-76f234261155------2)
 - [10 Python Packages I Use To Elevate My Codebase Standards](https://medium.com/pythoneers/10-python-packages-i-use-to-elevate-my-codebase-standards-df9a19d9e766?source=rss-76f234261155------2)
 - [17 Mindblowing Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Devin AI: Killing Developer Jobs?](https://medium.com/pythoneers/devin-ai-killing-developer-jobs-1ad3845b8f6d?source=rss-76f234261155------2)
 - [Zero-Day Vulnerability](https://medium.com/cybersharks/zero-day-vulnerability-71acf0b3f8b3?source=rss-76f234261155------2)
 - [Are u Bored?](https://abhayparashar31.medium.com/are-u-bored-339a3710eb19?source=rss-76f234261155------2)
-- [20 Key Things Every Data Scientist Needs To Understand to Be in the Top 1%](https://medium.com/pythoneers/20-key-things-every-data-scientist-needs-to-understand-to-be-in-the-top-1-64b3461bbb70?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
