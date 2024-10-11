@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13 Lesser-Known Python Built-in Functions You Aren’t Using](https://medium.com/pythoneers/13-lesser-known-python-built-in-functions-you-arent-using-bf70c8132d46?source=rss-76f234261155------2)
 - [33 Mindblowing Python Code Snippets for Everyday Problems](https://medium.com/pythoneers/33-mindblowing-python-code-snippets-for-everyday-problems-056f4d37ff20?source=rss-76f234261155------2)
 - [28 Insanely Useful Python Code Snippets For Everyday Problems](https://medium.com/pythoneers/28-insanely-useful-python-code-snippets-for-everyday-problems-49aeb95c5927?source=rss-76f234261155------2)
 - [9 MindBlowing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/9-mindblowing-python-features-you-arent-using-enough-f9b80c9b39a0?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [13 Amazing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/13-amazing-python-features-you-are-not-using-enough-d6020916cba1?source=rss-76f234261155------2)
 - [7 Crazy Python Easter Eggs You Probably Haven’t Seen](https://medium.com/pythoneers/7-crazy-python-easter-eggs-you-probably-havent-seen-025f4e23c813?source=rss-76f234261155------2)
 - [10 Mindblowing Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-mindblowing-automation-scripts-you-need-to-try-using-python-8bd935f88125?source=rss-76f234261155------2)
-- [Devin AI: Killing Developer Jobs?](https://medium.com/pythoneers/devin-ai-killing-developer-jobs-1ad3845b8f6d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
