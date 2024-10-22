@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [23 Underrated Python Packages You Didn’t Knew Existed](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
+- [23 Game-Changing Python Packages You Are Missing Out On](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-7bab64ec0809?source=rss-76f234261155------2)
 - [9 Powerful Python Built-In Functions You’re Overlooking](https://medium.com/pythoneers/9-powerful-python-built-in-functions-youre-overlooking-6d5cc66510f4?source=rss-76f234261155------2)
 - [33 Mindblowing Python Code Snippets for Everyday Problems](https://medium.com/pythoneers/33-mindblowing-python-code-snippets-for-everyday-problems-056f4d37ff20?source=rss-76f234261155------2)
