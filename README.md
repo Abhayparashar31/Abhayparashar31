@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Overpowered Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-overpowered-automation-scripts-you-need-to-try-using-python-0cd19fc30f5c?source=rss-76f234261155------2)
 - [23 Game-Changing Python Packages You Are Missing Out On](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-7bab64ec0809?source=rss-76f234261155------2)
 - [9 Powerful Python Built-In Functions You’re Overlooking](https://medium.com/pythoneers/9-powerful-python-built-in-functions-youre-overlooking-6d5cc66510f4?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [25 Amazing Python Tricks That Will Instantly Improve Your Code](https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f?source=rss-76f234261155------2)
 - [10 Python Packages I Use To Elevate My Codebase Standards](https://medium.com/pythoneers/10-python-packages-i-use-to-elevate-my-codebase-standards-df9a19d9e766?source=rss-76f234261155------2)
 - [17 Mindblowing Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284?source=rss-76f234261155------2)
-- [13 Amazing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/13-amazing-python-features-you-are-not-using-enough-d6020916cba1?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
