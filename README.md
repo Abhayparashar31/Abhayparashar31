@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Overpowered Automation Scripts You Need To Try Using Python](https://medium.com/pythoneers/10-overpowered-automation-scripts-you-need-to-try-using-python-0cd19fc30f5c?source=rss-76f234261155------2)
+- [10 Insanely Useful Automation Scripts You Need to Try Using Python](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b?source=rss-76f234261155------2)
 - [23 Game-Changing Python Packages You Are Missing Out On](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-7bab64ec0809?source=rss-76f234261155------2)
 - [9 Powerful Python Built-In Functions You’re Overlooking](https://medium.com/pythoneers/9-powerful-python-built-in-functions-youre-overlooking-6d5cc66510f4?source=rss-76f234261155------2)
