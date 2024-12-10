@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Good Habits Every Aspiring Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-aspiring-data-scientist-should-adopt-ee072f54a1b5?source=rss-76f234261155------2)
 - [10 Insanely Useful Automation Scripts You Need to Try Using Python](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b?source=rss-76f234261155------2)
 - [23 Game-Changing Python Packages You Are Missing Out On](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-7bab64ec0809?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [9 MindBlowing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/9-mindblowing-python-features-you-arent-using-enough-f9b80c9b39a0?source=rss-76f234261155------2)
 - [25 Amazing Python Tricks That Will Instantly Improve Your Code](https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f?source=rss-76f234261155------2)
 - [10 Python Packages I Use To Elevate My Codebase Standards](https://medium.com/pythoneers/10-python-packages-i-use-to-elevate-my-codebase-standards-df9a19d9e766?source=rss-76f234261155------2)
-- [17 Mindblowing Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
