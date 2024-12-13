@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [19 Impressive Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/19-impressive-python-automation-scripts-i-use-everyday-703a707d322d?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://abhayparashar31.medium.com/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
 - [15 Good Habits Every Aspiring Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-aspiring-data-scientist-should-adopt-ee072f54a1b5?source=rss-76f234261155------2)
 - [10 Insanely Useful Automation Scripts You Need to Try Using Python](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [33 Mindblowing Python Code Snippets for Everyday Problems](https://medium.com/pythoneers/33-mindblowing-python-code-snippets-for-everyday-problems-056f4d37ff20?source=rss-76f234261155------2)
 - [28 Insanely Useful Python Code Snippets For Everyday Problems](https://medium.com/pythoneers/28-insanely-useful-python-code-snippets-for-everyday-problems-49aeb95c5927?source=rss-76f234261155------2)
 - [9 MindBlowing Python Features You Aren’t Using Enough](https://medium.com/pythoneers/9-mindblowing-python-features-you-arent-using-enough-f9b80c9b39a0?source=rss-76f234261155------2)
-- [25 Amazing Python Tricks That Will Instantly Improve Your Code](https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
