@@ -33,8 +33,8 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [19 Impressive Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/19-impressive-python-automation-scripts-i-use-everyday-703a707d322d?source=rss-76f234261155------2)
-- [14 Foundational Concepts Every Python Programmer Should Master](https://abhayparashar31.medium.com/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
+- [17 Mindblowing Github Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
+- [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
 - [15 Good Habits Every Aspiring Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-aspiring-data-scientist-should-adopt-ee072f54a1b5?source=rss-76f234261155------2)
 - [10 Insanely Useful Automation Scripts You Need to Try Using Python](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b?source=rss-76f234261155------2)
 - [23 Game-Changing Python Packages You Are Missing Out On](https://medium.com/pythoneers/23-underrated-python-packages-you-didnt-knew-existed-36dbb0a417c0?source=rss-76f234261155------2)
