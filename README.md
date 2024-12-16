@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [19 Impressive Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/19-impressive-python-automation-scripts-i-use-everyday-7381e5c77ee9?source=rss-76f234261155------2)
 - [40 Python One-Liners You Must Try](https://medium.com/pythoneers/40-python-one-liners-you-must-try-ae4d3e4d2e5f?source=rss-76f234261155------2)
 - [17 Mindblowing GitHub Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-7bab64ec0809?source=rss-76f234261155------2)
 - [9 Powerful Python Built-In Functions You’re Overlooking](https://medium.com/pythoneers/9-powerful-python-built-in-functions-youre-overlooking-6d5cc66510f4?source=rss-76f234261155------2)
 - [33 Mindblowing Python Code Snippets for Everyday Problems](https://medium.com/pythoneers/33-mindblowing-python-code-snippets-for-everyday-problems-056f4d37ff20?source=rss-76f234261155------2)
-- [28 Insanely Useful Python Code Snippets For Everyday Problems](https://medium.com/pythoneers/28-insanely-useful-python-code-snippets-for-everyday-problems-49aeb95c5927?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
