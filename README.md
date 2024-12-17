@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [19 Impressive Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/19-impressive-python-automation-scripts-i-use-everyday-7381e5c77ee9?source=rss-76f234261155------2)
+- [18 Insanely Useful Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/18-insanely-useful-python-automation-scripts-i-use-everyday-b3aeb7671ce9?source=rss-76f234261155------2)
 - [40 Python One-Liners You Must Try](https://medium.com/pythoneers/40-python-one-liners-you-must-try-ae4d3e4d2e5f?source=rss-76f234261155------2)
 - [17 Mindblowing GitHub Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
