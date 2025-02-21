@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining RAG in Layman’s Terms](https://medium.com/pythoneers/explaining-rag-in-laymans-terms-66df5be6a3df?source=rss-76f234261155------2)
 - [How to Explain Each Core Machine Learning Model in an Interview](https://medium.com/pythoneers/how-to-explain-core-machine-learning-models-in-an-interview-8fc8afcd6ee5?source=rss-76f234261155------2)
 - [The Email Trap: How to Avoid Getting Phished](https://medium.com/cybersharks/the-email-trap-how-to-avoid-getting-phished-0a46f8fd6602?source=rss-76f234261155------2)
 - [25 Automation Ideas for 2025](https://medium.com/pythoneers/25-automation-ideas-for-2025-cefca30abab4?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [17 Mindblowing GitHub Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
 - [15 Good Habits Every Aspiring Data Scientist Should Adopt](https://medium.com/pythoneers/15-good-habits-every-aspiring-data-scientist-should-adopt-ee072f54a1b5?source=rss-76f234261155------2)
-- [10 Insanely Useful Automation Scripts You Need to Try Using Python](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
