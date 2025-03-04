@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85?source=rss-76f234261155------2)
 - [14 Powerful Prompt Engineering Techniques You Need to Try](https://medium.com/pythoneers/14-powerful-prompt-engineering-techniques-you-need-to-know-5fb1f603789e?source=rss-76f234261155------2)
 - [Explaining RAG in Layman’s Terms](https://medium.com/pythoneers/explaining-rag-in-laymans-terms-66df5be6a3df?source=rss-76f234261155------2)
 - [How to Explain Each Core Machine Learning Model in an Interview](https://medium.com/pythoneers/how-to-explain-core-machine-learning-models-in-an-interview-8fc8afcd6ee5?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [18 Insanely Useful Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/18-insanely-useful-python-automation-scripts-i-use-everyday-b3aeb7671ce9?source=rss-76f234261155------2)
 - [40 Python One-Liners You Must Try](https://medium.com/pythoneers/40-python-one-liners-you-must-try-ae4d3e4d2e5f?source=rss-76f234261155------2)
 - [17 Mindblowing GitHub Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
-- [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-cd9572a770b4?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
