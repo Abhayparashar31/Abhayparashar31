@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
 - [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85?source=rss-76f234261155------2)
 - [14 Powerful Prompt Engineering Techniques You Need to Try](https://medium.com/pythoneers/14-powerful-prompt-engineering-techniques-you-need-to-know-5fb1f603789e?source=rss-76f234261155------2)
 - [Explaining RAG in Layman’s Terms](https://medium.com/pythoneers/explaining-rag-in-laymans-terms-66df5be6a3df?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [25 Github Repositories Every Python Developer Should Know](https://medium.com/pythoneers/25-github-repositories-every-python-developer-should-know-cd2f361aa3b0?source=rss-76f234261155------2)
 - [18 Insanely Useful Python Automation Scripts I Use Everyday](https://medium.com/pythoneers/18-insanely-useful-python-automation-scripts-i-use-everyday-b3aeb7671ce9?source=rss-76f234261155------2)
 - [40 Python One-Liners You Must Try](https://medium.com/pythoneers/40-python-one-liners-you-must-try-ae4d3e4d2e5f?source=rss-76f234261155------2)
-- [17 Mindblowing GitHub Repositories You Never Knew Existed](https://medium.com/pythoneers/17-mindblowing-github-repositories-you-never-knew-existed-6f0fa548976d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
