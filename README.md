@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Explain Each Core Deep Learning Model in an Interview](https://medium.com/pythoneers/how-to-explain-each-core-deep-learning-model-in-an-interview-3333e9d787d7?source=rss-76f234261155------2)
+- [Explaining All Core Deep Learning Models In Brief](https://medium.com/pythoneers/how-to-explain-each-core-deep-learning-model-in-an-interview-3333e9d787d7?source=rss-76f234261155------2)
 - [10 Different Ways To Get Hacked](https://medium.com/cybersharks/10-different-ways-to-get-hacked-90c80b051bdf?source=rss-76f234261155------2)
 - [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
 - [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85?source=rss-76f234261155------2)
