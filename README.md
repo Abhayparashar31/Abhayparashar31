@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Algorithms You Never Knew Existed, But Are Quite Useful](https://medium.com/pythoneers/machine-learning-algorithms-you-never-knew-existed-but-are-quite-useful-2bb083401c51?source=rss-76f234261155------2)
 - [Answering Most Asked Questions About Dark Web](https://medium.com/cybersharks/answering-most-asked-questions-about-dark-web-32b895972d2b?source=rss-76f234261155------2)
 - [10 Different Ways To Get Hacked](https://medium.com/cybersharks/10-different-ways-to-get-hacked-90c80b051bdf?source=rss-76f234261155------2)
 - [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How to Explain Each Core Machine Learning Model in an Interview](https://medium.com/pythoneers/how-to-explain-core-machine-learning-models-in-an-interview-8fc8afcd6ee5?source=rss-76f234261155------2)
 - [The Email Trap: How to Avoid Getting Phished](https://medium.com/cybersharks/the-email-trap-how-to-avoid-getting-phished-0a46f8fd6602?source=rss-76f234261155------2)
 - [25 Automation Ideas for 2025](https://medium.com/pythoneers/25-automation-ideas-for-2025-cefca30abab4?source=rss-76f234261155------2)
-- [25 Github Repositories Every Python Developer Should Know](https://medium.com/pythoneers/25-github-repositories-every-python-developer-should-know-cd2f361aa3b0?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
