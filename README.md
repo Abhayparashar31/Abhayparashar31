@@ -115,14 +115,7 @@ Computer Science Enginner & Tech Writer
 	</ul>	
 </details>
  -->
- ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![Abhay parashar gif](https://github.com/Abhayparashar31/Abhayparashar31/blob/output/github-contribution-grid-snake.svg)
- 
-<!--
-
-Source: https://github.com/iampavangandhi/iampavangandhi/blob/master/README.md
 
 Resources
 Icons: https://simpleicons.org/
