@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Things I Wish I Knew Before Starting To Invest](https://abhayparashar31.medium.com/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
 - [I Met Death Last Night!!](https://medium.com/echoes-insights/i-met-death-last-night-6ab1d28be68b?source=rss-76f234261155------2)
 - [10 Pandas Functions I Regret Overlooking in My Data Science Journey](https://medium.com/pythoneers/10-pandas-functions-i-regret-overlooking-in-my-data-science-journey-064b39fd3b92?source=rss-76f234261155------2)
 - [Deep Learning, Simplified: How to Explain 20+ Models in an Interview](https://medium.com/data-science-collective/deep-learning-simplified-how-to-explain-20-models-in-an-interview-bc55f99d16fe?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
 - [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85?source=rss-76f234261155------2)
 - [14 Powerful Prompt Engineering Techniques You Need to Try](https://medium.com/pythoneers/14-powerful-prompt-engineering-techniques-you-need-to-know-5fb1f603789e?source=rss-76f234261155------2)
-- [Explaining RAG in Layman’s Terms](https://medium.com/pythoneers/explaining-rag-in-laymans-terms-66df5be6a3df?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
