@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Things I Wish I Knew Before Starting To Invest](https://abhayparashar31.medium.com/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
+- [7 Things I Wish I Knew Before Starting To Invest](https://medium.com/echoes-insights/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
 - [I Met Death Last Night!!](https://medium.com/echoes-insights/i-met-death-last-night-6ab1d28be68b?source=rss-76f234261155------2)
 - [10 Pandas Functions I Regret Overlooking in My Data Science Journey](https://medium.com/pythoneers/10-pandas-functions-i-regret-overlooking-in-my-data-science-journey-064b39fd3b92?source=rss-76f234261155------2)
 - [Deep Learning, Simplified: How to Explain 20+ Models in an Interview](https://medium.com/data-science-collective/deep-learning-simplified-how-to-explain-20-models-in-an-interview-bc55f99d16fe?source=rss-76f234261155------2)
