@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17 Game-Changing Python Modules You Are Missing Out On](https://medium.com/pythoneers/17-game-changing-python-modules-you-are-missing-out-on-41576a8c67ad?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-1d4a072842db?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://medium.com/echoes-insights/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
 - [I Met Death Last Night!!](https://medium.com/echoes-insights/i-met-death-last-night-6ab1d28be68b?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Answering Most Asked Questions About Dark Web](https://medium.com/cybersharks/answering-most-asked-questions-about-dark-web-32b895972d2b?source=rss-76f234261155------2)
 - [10 Different Ways To Get Hacked](https://medium.com/cybersharks/10-different-ways-to-get-hacked-90c80b051bdf?source=rss-76f234261155------2)
 - [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
-- [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
