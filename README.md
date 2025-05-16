@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Software Engineering Principles I Ignored for Too Long](https://medium.com/pythoneers/16-software-engineering-principles-i-ignored-for-too-long-a69d32f1a52e?source=rss-76f234261155------2)
 - [17 Game-Changing Python Modules You Are Missing Out On](https://medium.com/pythoneers/17-game-changing-python-modules-you-are-missing-out-on-41576a8c67ad?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-1d4a072842db?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://medium.com/echoes-insights/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Machine Learning Algorithms You Never Knew Existed, But Are Quite Useful](https://medium.com/pythoneers/machine-learning-algorithms-you-never-knew-existed-but-are-quite-useful-2bb083401c51?source=rss-76f234261155------2)
 - [Answering Most Asked Questions About Dark Web](https://medium.com/cybersharks/answering-most-asked-questions-about-dark-web-32b895972d2b?source=rss-76f234261155------2)
 - [10 Different Ways To Get Hacked](https://medium.com/cybersharks/10-different-ways-to-get-hacked-90c80b051bdf?source=rss-76f234261155------2)
-- [10 MindBlowing Free APIs to Supercharge Your Next Project](https://medium.com/pythoneers/10-mindblowing-free-apis-to-supercharge-your-next-project-8edd34df6254?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
