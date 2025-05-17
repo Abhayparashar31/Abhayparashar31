@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [18 Important Statistical Approaches Every Data Scientist Should Know](https://medium.com/pythoneers/18-important-statistical-approaches-every-data-scientist-should-know-dba9e701345c?source=rss-76f234261155------2)
 - [15 Software Engineering Principles I Ignored for Too Long](https://medium.com/pythoneers/16-software-engineering-principles-i-ignored-for-too-long-a69d32f1a52e?source=rss-76f234261155------2)
 - [17 Game-Changing Python Modules You Are Missing Out On](https://medium.com/pythoneers/17-game-changing-python-modules-you-are-missing-out-on-41576a8c67ad?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-1d4a072842db?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Deep Learning, Simplified: How to Explain 20+ Models in an Interview](https://medium.com/data-science-collective/deep-learning-simplified-how-to-explain-20-models-in-an-interview-bc55f99d16fe?source=rss-76f234261155------2)
 - [Machine Learning Algorithms You Never Knew Existed, But Are Quite Useful](https://medium.com/pythoneers/machine-learning-algorithms-you-never-knew-existed-but-are-quite-useful-2bb083401c51?source=rss-76f234261155------2)
 - [Answering Most Asked Questions About Dark Web](https://medium.com/cybersharks/answering-most-asked-questions-about-dark-web-32b895972d2b?source=rss-76f234261155------2)
-- [10 Different Ways To Get Hacked](https://medium.com/cybersharks/10-different-ways-to-get-hacked-90c80b051bdf?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
