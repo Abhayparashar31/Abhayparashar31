@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 Modern Python Libraries You Are Missing Out On](https://medium.com/pythoneers/16-modern-python-libraries-you-are-missing-out-on-1e721b5c7840?source=rss-76f234261155------2)
 - [The Diverse Threat of Malware](https://medium.com/cybersharks/the-diverse-threat-of-malware-f02dcea5ad8d?source=rss-76f234261155------2)
 - [18 Important Statistical Approaches Every Data Scientist Should Know](https://medium.com/pythoneers/18-important-statistical-approaches-every-data-scientist-should-know-dba9e701345c?source=rss-76f234261155------2)
 - [15 Software Engineering Principles I Ignored for Too Long](https://medium.com/pythoneers/16-software-engineering-principles-i-ignored-for-too-long-a69d32f1a52e?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [I Met Death Last Night!!](https://medium.com/echoes-insights/i-met-death-last-night-6ab1d28be68b?source=rss-76f234261155------2)
 - [10 Pandas Functions I Regret Overlooking in My Data Science Journey](https://medium.com/pythoneers/10-pandas-functions-i-regret-overlooking-in-my-data-science-journey-064b39fd3b92?source=rss-76f234261155------2)
 - [Deep Learning, Simplified: How to Explain 20+ Models in an Interview](https://medium.com/data-science-collective/deep-learning-simplified-how-to-explain-20-models-in-an-interview-bc55f99d16fe?source=rss-76f234261155------2)
-- [Machine Learning Algorithms You Never Knew Existed, But Are Quite Useful](https://medium.com/pythoneers/machine-learning-algorithms-you-never-knew-existed-but-are-quite-useful-2bb083401c51?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
