@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
 - [Anthropic Claude 4.0 Is Finally Here](https://levelup.gitconnected.com/anthropic-claude-4-0-is-finally-here-653263e15882?source=rss-76f234261155------2)
 - [16 Modern Python Libraries You Are Missing Out On](https://medium.com/pythoneers/16-modern-python-libraries-you-are-missing-out-on-1e721b5c7840?source=rss-76f234261155------2)
 - [The Diverse Threat of Malware](https://medium.com/cybersharks/the-diverse-threat-of-malware-f02dcea5ad8d?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-1d4a072842db?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://medium.com/echoes-insights/7-things-i-wish-i-knew-before-starting-to-invest-ab204b652946?source=rss-76f234261155------2)
 - [I Met Death Last Night!!](https://medium.com/echoes-insights/i-met-death-last-night-6ab1d28be68b?source=rss-76f234261155------2)
-- [10 Pandas Functions I Regret Overlooking in My Data Science Journey](https://medium.com/pythoneers/10-pandas-functions-i-regret-overlooking-in-my-data-science-journey-064b39fd3b92?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
