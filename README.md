@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Mindblowing Automation Scripts I Wish I Had Written Sooner](https://abhayparashar31.medium.com/13-mindblowing-automation-scripts-i-wish-i-had-written-sooner-ccda08717661?source=rss-76f234261155------2)
+- [13 Mindblowing Automation Scripts I Wish I Had Written Sooner](https://medium.com/pythoneers/13-mindblowing-automation-scripts-i-wish-i-had-written-sooner-ccda08717661?source=rss-76f234261155------2)
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
 - [Anthropic Claude 4.0 Is Finally Here](https://levelup.gitconnected.com/anthropic-claude-4-0-is-finally-here-653263e15882?source=rss-76f234261155------2)
 - [16 Modern Python Libraries You Are Missing Out On](https://medium.com/pythoneers/16-modern-python-libraries-you-are-missing-out-on-1e721b5c7840?source=rss-76f234261155------2)
