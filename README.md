@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 - [13 Machine Learning Mistakes That Sabotage Your Models &lpar;and How to Fix Them&rpar;](https://medium.com/pythoneers/13-machine-learning-mistakes-that-sabotage-your-models-and-how-to-fix-them-c00f86914411?source=rss-76f234261155------2)
 - [13 Mindblowing Automation Scripts I Wish I Had Written Sooner](https://medium.com/pythoneers/13-mindblowing-automation-scripts-i-wish-i-had-written-sooner-ccda08717661?source=rss-76f234261155------2)
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [18 Important Statistical Approaches Every Data Scientist Should Know](https://medium.com/pythoneers/18-important-statistical-approaches-every-data-scientist-should-know-dba9e701345c?source=rss-76f234261155------2)
 - [15 Software Engineering Principles I Ignored for Too Long](https://medium.com/pythoneers/16-software-engineering-principles-i-ignored-for-too-long-a69d32f1a52e?source=rss-76f234261155------2)
 - [17 Game-Changing Python Modules You Are Missing Out On](https://medium.com/pythoneers/17-game-changing-python-modules-you-are-missing-out-on-41576a8c67ad?source=rss-76f234261155------2)
-- [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-1d4a072842db?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
