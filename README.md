@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deal with Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-deal-with-messy-data-in-machine-learning-projects-2be20cc6b0d6?source=rss-76f234261155------2)
 - [Everything You Can Do With a Single Asterisk in Python](https://medium.com/pythoneers/everything-you-can-do-with-a-single-asterisk-in-python-04796e06da32?source=rss-76f234261155------2)
 - [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 - [13 Machine Learning Mistakes That Sabotage Your Models &lpar;and How to Fix Them&rpar;](https://medium.com/pythoneers/13-machine-learning-mistakes-that-sabotage-your-models-and-how-to-fix-them-c00f86914411?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [16 Modern Python Libraries You Are Missing Out On](https://medium.com/pythoneers/16-modern-python-libraries-you-are-missing-out-on-1e721b5c7840?source=rss-76f234261155------2)
 - [The Diverse Threat of Malware](https://medium.com/cybersharks/the-diverse-threat-of-malware-f02dcea5ad8d?source=rss-76f234261155------2)
 - [18 Important Statistical Approaches Every Data Scientist Should Know](https://medium.com/pythoneers/18-important-statistical-approaches-every-data-scientist-should-know-dba9e701345c?source=rss-76f234261155------2)
-- [15 Software Engineering Principles I Ignored for Too Long](https://medium.com/pythoneers/16-software-engineering-principles-i-ignored-for-too-long-a69d32f1a52e?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
