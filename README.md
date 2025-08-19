@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Write Better Error Messages in Python](https://abhayparashar31.medium.com/how-to-write-better-error-messages-in-python-9d3464ec8f81?source=rss-76f234261155------2)
 - [Google Got Fooled by a Phone Call — Here’s What You Can Learn](https://medium.com/cybersharks/google-got-fooled-by-a-phone-call-heres-what-you-can-learn-5072cc519cd1?source=rss-76f234261155------2)
 - [How to Deal with Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-deal-with-messy-data-in-machine-learning-projects-2be20cc6b0d6?source=rss-76f234261155------2)
 - [Everything You Can Do With a Single Asterisk in Python](https://medium.com/pythoneers/everything-you-can-do-with-a-single-asterisk-in-python-04796e06da32?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
 - [Anthropic Claude 4.0 Is Finally Here](https://levelup.gitconnected.com/anthropic-claude-4-0-is-finally-here-653263e15882?source=rss-76f234261155------2)
 - [16 Modern Python Libraries You Are Missing Out On](https://medium.com/pythoneers/16-modern-python-libraries-you-are-missing-out-on-1e721b5c7840?source=rss-76f234261155------2)
-- [The Diverse Threat of Malware](https://medium.com/cybersharks/the-diverse-threat-of-malware-f02dcea5ad8d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
