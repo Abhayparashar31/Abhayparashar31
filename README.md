@@ -33,9 +33,9 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Write Better Error Messages in Python](https://abhayparashar31.medium.com/how-to-write-better-error-messages-in-python-9d3464ec8f81?source=rss-76f234261155------2)
+- [Five Times Python’s = Didn’t Mean What I Thought It Did](https://medium.com/pythoneers/five-times-pythons-didn-t-mean-what-i-thought-it-did-4b2824ed7888?source=rss-76f234261155------2)
+- [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-9d3464ec8f81?source=rss-76f234261155------2)
 - [Google Got Fooled by a Phone Call — Here’s What You Can Learn](https://medium.com/cybersharks/google-got-fooled-by-a-phone-call-heres-what-you-can-learn-5072cc519cd1?source=rss-76f234261155------2)
-- [How to Deal with Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-deal-with-messy-data-in-machine-learning-projects-2be20cc6b0d6?source=rss-76f234261155------2)
 - [Everything You Can Do With a Single Asterisk in Python](https://medium.com/pythoneers/everything-you-can-do-with-a-single-asterisk-in-python-04796e06da32?source=rss-76f234261155------2)
 - [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 - [13 Machine Learning Mistakes That Sabotage Your Models &lpar;and How to Fix Them&rpar;](https://medium.com/pythoneers/13-machine-learning-mistakes-that-sabotage-your-models-and-how-to-fix-them-c00f86914411?source=rss-76f234261155------2)
