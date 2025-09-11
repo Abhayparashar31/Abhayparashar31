@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17 Next-Gen Python Libraries You Are Missing Out On](https://medium.com/pythoneers/17-next-gen-python-libraries-you-are-missing-out-on-1d2d12ea0cb1?source=rss-76f234261155------2)
 - [90% of Python programmers don’t know these useful uses of underscore](https://levelup.gitconnected.com/90-of-python-programmers-dont-know-these-useful-uses-of-underscore-5986f8d5541f?source=rss-76f234261155------2)
 - [The Ultimate Guide to Handling Messy Data in Machine Learning Projects](https://medium.com/data-science-collective/the-ultimate-guide-to-handling-messy-data-in-machine-learning-projects-5fe7bd13bb69?source=rss-76f234261155------2)
 - [Five Times Python’s = Didn’t Mean What I Thought It Did](https://medium.com/pythoneers/five-times-pythons-didn-t-mean-what-i-thought-it-did-4b2824ed7888?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 - [13 Machine Learning Mistakes That Sabotage Your Models &lpar;and How to Fix Them&rpar;](https://medium.com/pythoneers/13-machine-learning-mistakes-that-sabotage-your-models-and-how-to-fix-them-c00f86914411?source=rss-76f234261155------2)
 - [13 Mindblowing Automation Scripts I Wish I Had Written Sooner](https://medium.com/pythoneers/13-mindblowing-automation-scripts-i-wish-i-had-written-sooner-ccda08717661?source=rss-76f234261155------2)
-- [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
