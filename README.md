@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote 100+ Python Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-python-automation-scripts-these-11-changed-everything-431009f96d6b?source=rss-76f234261155------2)
 - [17 Next-Gen Python Libraries You Are Missing Out On](https://medium.com/pythoneers/17-next-gen-python-libraries-you-are-missing-out-on-1d2d12ea0cb1?source=rss-76f234261155------2)
 - [90% of Python programmers don’t know these useful uses of underscore](https://levelup.gitconnected.com/90-of-python-programmers-dont-know-these-useful-uses-of-underscore-5986f8d5541f?source=rss-76f234261155------2)
 - [The Ultimate Guide to Handling Messy Data in Machine Learning Projects](https://medium.com/data-science-collective/the-ultimate-guide-to-handling-messy-data-in-machine-learning-projects-5fe7bd13bb69?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Everything You Can Do With a Single Asterisk in Python](https://medium.com/pythoneers/everything-you-can-do-with-a-single-asterisk-in-python-04796e06da32?source=rss-76f234261155------2)
 - [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 - [13 Machine Learning Mistakes That Sabotage Your Models &lpar;and How to Fix Them&rpar;](https://medium.com/pythoneers/13-machine-learning-mistakes-that-sabotage-your-models-and-how-to-fix-them-c00f86914411?source=rss-76f234261155------2)
-- [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-e624ddad86b2?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
