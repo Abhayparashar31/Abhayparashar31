@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Spot LLM‑Generated Code &lpar;Even When It Looks Human&rpar;](https://medium.com/pythoneers/how-to-spot-llm-generated-code-even-when-it-looks-human-b2b15bc37b31?source=rss-76f234261155------2)
 - [7 Technical Writing Ideas That Will Never Expire](https://abhayparashar31.medium.com/7-technical-writing-ideas-that-will-never-expire-9ce22b1f1044?source=rss-76f234261155------2)
 - [I Wrote 100+ Python Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-python-automation-scripts-these-11-changed-everything-431009f96d6b?source=rss-76f234261155------2)
 - [17 Next-Gen Python Libraries You Are Missing Out On](https://medium.com/pythoneers/17-next-gen-python-libraries-you-are-missing-out-on-1d2d12ea0cb1?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How To Write Better Error Messages in Python](https://medium.com/pythoneers/how-to-write-better-error-messages-in-python-9d3464ec8f81?source=rss-76f234261155------2)
 - [Google Got Fooled by a Phone Call — Here’s What You Can Learn](https://medium.com/cybersharks/google-got-fooled-by-a-phone-call-heres-what-you-can-learn-5072cc519cd1?source=rss-76f234261155------2)
 - [Everything You Can Do With a Single Asterisk in Python](https://medium.com/pythoneers/everything-you-can-do-with-a-single-asterisk-in-python-04796e06da32?source=rss-76f234261155------2)
-- [One Line Made My Functions 3× Faster — And I Didn’t Change the Logic](https://medium.com/pythoneers/one-line-made-my-functions-3-faster-and-i-didnt-change-the-logic-8916b7bee821?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
