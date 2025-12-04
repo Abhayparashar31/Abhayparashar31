@@ -33,6 +33,8 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
+- [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 - [Do you need an AI detox? Your habits will tell you.](https://medium.com/pythoneers/do-you-need-an-ai-detox-your-habits-will-tell-you-51f889ee4451?source=rss-76f234261155------2)
 - [Best Python Weekend Projects To Test Your Knowledge](https://medium.com/pythoneers/best-python-weekend-projects-to-test-your-knowledge-e7d840783194?source=rss-76f234261155------2)
 - [How To Break Free Out Of A Guilt Trip](https://abhayparashar31.medium.com/how-to-break-free-out-of-a-guilt-trip-81dd7a7303ec?source=rss-76f234261155------2)
@@ -41,8 +43,6 @@ Computer Science Enginner & Tech Writer
 - [7 Technical Writing Ideas That Will Never Expire](https://abhayparashar31.medium.com/7-technical-writing-ideas-that-will-never-expire-9ce22b1f1044?source=rss-76f234261155------2)
 - [I Wrote 100+ Python Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-python-automation-scripts-these-11-changed-everything-431009f96d6b?source=rss-76f234261155------2)
 - [17 Next-Gen Python Libraries You Are Missing Out On](https://medium.com/pythoneers/17-next-gen-python-libraries-you-are-missing-out-on-1d2d12ea0cb1?source=rss-76f234261155------2)
-- [90% of Python programmers don’t know these useful uses of underscore](https://levelup.gitconnected.com/90-of-python-programmers-dont-know-these-useful-uses-of-underscore-5986f8d5541f?source=rss-76f234261155------2)
-- [The Ultimate Guide to Handling Messy Data in Machine Learning Projects](https://medium.com/data-science-collective/the-ultimate-guide-to-handling-messy-data-in-machine-learning-projects-5fe7bd13bb69?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
