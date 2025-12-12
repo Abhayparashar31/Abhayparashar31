@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
+- [How to Reduce Your Digital Footprints?](https://osintteam.blog/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
 - [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
 - [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 - [Do you need an AI detox? Your habits will tell you.](https://medium.com/pythoneers/do-you-need-an-ai-detox-your-habits-will-tell-you-51f889ee4451?source=rss-76f234261155------2)
