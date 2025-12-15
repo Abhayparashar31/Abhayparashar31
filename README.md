@@ -33,7 +33,8 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Your Digital Footprints?](https://osintteam.blog/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
+- [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
+- [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
 - [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
 - [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 - [Do you need an AI detox? Your habits will tell you.](https://medium.com/pythoneers/do-you-need-an-ai-detox-your-habits-will-tell-you-51f889ee4451?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How Does The Web Actually Works Securely ?](https://medium.com/cybersharks/how-does-the-web-actually-works-securely-8c69ddbb3149?source=rss-76f234261155------2)
 - [How to Spot LLM‑Generated Code &lpar;Even When It Looks Human&rpar;](https://medium.com/pythoneers/how-to-spot-llm-generated-code-even-when-it-looks-human-b2b15bc37b31?source=rss-76f234261155------2)
 - [7 Technical Writing Ideas That Will Never Expire](https://abhayparashar31.medium.com/7-technical-writing-ideas-that-will-never-expire-9ce22b1f1044?source=rss-76f234261155------2)
-- [I Wrote 100+ Python Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-python-automation-scripts-these-11-changed-everything-431009f96d6b?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
