@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://levelup.gitconnected.com/how-to-write-better-error-messages-in-python-c67b07c45326?source=rss-76f234261155------2)
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
 - [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Best Python Weekend Projects To Test Your Knowledge](https://medium.com/pythoneers/best-python-weekend-projects-to-test-your-knowledge-e7d840783194?source=rss-76f234261155------2)
 - [How To Break Free Out Of A Guilt Trip](https://abhayparashar31.medium.com/how-to-break-free-out-of-a-guilt-trip-81dd7a7303ec?source=rss-76f234261155------2)
 - [How Does The Web Actually Works Securely ?](https://medium.com/cybersharks/how-does-the-web-actually-works-securely-8c69ddbb3149?source=rss-76f234261155------2)
-- [How to Spot LLM‑Generated Code &lpar;Even When It Looks Human&rpar;](https://medium.com/pythoneers/how-to-spot-llm-generated-code-even-when-it-looks-human-b2b15bc37b31?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
