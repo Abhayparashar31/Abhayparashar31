@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
 - [How Composition Slowly Replaced Inheritance Without Anyone Noticing.](https://levelup.gitconnected.com/how-composition-slowly-replaced-inheritance-without-anyone-noticing-6f3eb2ba7dec?source=rss-76f234261155------2)
 - [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://levelup.gitconnected.com/how-to-write-better-error-messages-in-python-c67b07c45326?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 - [Do you need an AI detox? Your habits will tell you.](https://medium.com/pythoneers/do-you-need-an-ai-detox-your-habits-will-tell-you-51f889ee4451?source=rss-76f234261155------2)
 - [Best Python Weekend Projects To Test Your Knowledge](https://medium.com/pythoneers/best-python-weekend-projects-to-test-your-knowledge-e7d840783194?source=rss-76f234261155------2)
-- [How To Break Free Out Of A Guilt Trip](https://abhayparashar31.medium.com/how-to-break-free-out-of-a-guilt-trip-81dd7a7303ec?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
