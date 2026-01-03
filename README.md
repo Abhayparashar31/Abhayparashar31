@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
 - [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
 - [How Composition Slowly Replaced Inheritance Without Anyone Noticing.](https://levelup.gitconnected.com/how-composition-slowly-replaced-inheritance-without-anyone-noticing-6f3eb2ba7dec?source=rss-76f234261155------2)
 - [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
 - [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 - [Do you need an AI detox? Your habits will tell you.](https://medium.com/pythoneers/do-you-need-an-ai-detox-your-habits-will-tell-you-51f889ee4451?source=rss-76f234261155------2)
-- [Best Python Weekend Projects To Test Your Knowledge](https://medium.com/pythoneers/best-python-weekend-projects-to-test-your-knowledge-e7d840783194?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
