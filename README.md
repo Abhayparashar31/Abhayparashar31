@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
 - [The Simplest Guide To Finding Your Niche.](https://medium.com/the-growth-habit/the-simplest-guide-to-finding-your-niche-97ebfa73f1d8?source=rss-76f234261155------2)
 - [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
 - [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
 - [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
 - [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
-- [The ChatGPT Shortcuts You Didn’t Know You Needed](https://levelup.gitconnected.com/the-chatgpt-shortcuts-you-didnt-know-you-needed-bfbc21386183?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
