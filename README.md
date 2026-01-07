@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Writing Ideas For Your Next Big Story](https://abhayparashar31.medium.com/20-writing-ideas-for-your-next-big-story-aa2002add51a?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
 - [The Simplest Guide To Finding Your Niche.](https://medium.com/the-growth-habit/the-simplest-guide-to-finding-your-niche-97ebfa73f1d8?source=rss-76f234261155------2)
 - [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How To Write Better Error Messages in Python](https://levelup.gitconnected.com/how-to-write-better-error-messages-in-python-c67b07c45326?source=rss-76f234261155------2)
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
 - [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
-- [How To Create A Simple Malware Using Python](https://medium.com/cybersharks/how-to-create-a-simple-malware-using-python-2564e8a63f06?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
