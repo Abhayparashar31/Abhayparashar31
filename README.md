@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-a672c9eac04d?source=rss-76f234261155------2)
 - [20 Writing Ideas For Your Next Big Story](https://abhayparashar31.medium.com/20-writing-ideas-for-your-next-big-story-aa2002add51a?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
 - [The Simplest Guide To Finding Your Niche.](https://medium.com/the-growth-habit/the-simplest-guide-to-finding-your-niche-97ebfa73f1d8?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://levelup.gitconnected.com/how-to-write-better-error-messages-in-python-c67b07c45326?source=rss-76f234261155------2)
 - [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
-- [How to Reduce Your Digital Footprints?](https://medium.com/cybersharks/how-to-reduce-your-digital-footprints-600556fc1e3d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
