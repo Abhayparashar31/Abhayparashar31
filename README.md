@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Information Can You Extract From Just An Email Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-email-address-38a673d09bfb?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-a672c9eac04d?source=rss-76f234261155------2)
 - [20 Writing Ideas For Your Next Big Story](https://abhayparashar31.medium.com/20-writing-ideas-for-your-next-big-story-aa2002add51a?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [How Composition Slowly Replaced Inheritance Without Anyone Noticing.](https://levelup.gitconnected.com/how-composition-slowly-replaced-inheritance-without-anyone-noticing-6f3eb2ba7dec?source=rss-76f234261155------2)
 - [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
 - [How To Write Better Error Messages in Python](https://levelup.gitconnected.com/how-to-write-better-error-messages-in-python-c67b07c45326?source=rss-76f234261155------2)
-- [16 Mindblowing GitHub Repositories I Regret Not Knowing Earlier](https://medium.com/pythoneers/16-mindblowing-github-repositories-i-regret-not-knowing-earlier-20ff7d67d5e6?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
