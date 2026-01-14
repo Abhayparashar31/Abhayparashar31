@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Answering Most Asked Questions About the Dark Web](https://levelup.gitconnected.com/answering-most-asked-questions-about-the-dark-web-6991633f8248?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://levelup.gitconnected.com/7-things-i-wish-i-knew-before-starting-to-invest-65ebc7a5d44b?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An Email Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-email-address-38a673d09bfb?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-a672c9eac04d?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
 - [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
 - [How Composition Slowly Replaced Inheritance Without Anyone Noticing.](https://levelup.gitconnected.com/how-composition-slowly-replaced-inheritance-without-anyone-noticing-6f3eb2ba7dec?source=rss-76f234261155------2)
-- [Python Tricks That Still Amaze Me Even After 5 Years](https://medium.com/pythoneers/python-tricks-that-still-amaze-me-even-after-5-years-1709b0d6fd72?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
