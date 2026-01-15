@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-82b01eec9039?source=rss-76f234261155------2)
 - [Answering Most Asked Questions About the Dark Web](https://levelup.gitconnected.com/answering-most-asked-questions-about-the-dark-web-6991633f8248?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://levelup.gitconnected.com/7-things-i-wish-i-knew-before-starting-to-invest-65ebc7a5d44b?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An Email Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-email-address-38a673d09bfb?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [The Simplest Guide To Finding Your Niche.](https://medium.com/the-growth-habit/the-simplest-guide-to-finding-your-niche-97ebfa73f1d8?source=rss-76f234261155------2)
 - [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
 - [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
-- [How Composition Slowly Replaced Inheritance Without Anyone Noticing.](https://levelup.gitconnected.com/how-composition-slowly-replaced-inheritance-without-anyone-noticing-6f3eb2ba7dec?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
