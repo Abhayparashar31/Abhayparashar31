@@ -33,6 +33,8 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you bored?](https://medium.com/pythoneers/are-you-bored-1861719b1fb8?source=rss-76f234261155------2)
+- [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss-76f234261155------2)
 - [10 Python Code Habits You Must Avoid for Efficient Programming](https://medium.com/pythoneers/10-python-code-habits-you-must-avoid-for-efficient-programming-82b01eec9039?source=rss-76f234261155------2)
 - [Answering Most Asked Questions About the Dark Web](https://levelup.gitconnected.com/answering-most-asked-questions-about-the-dark-web-6991633f8248?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://levelup.gitconnected.com/7-things-i-wish-i-knew-before-starting-to-invest-65ebc7a5d44b?source=rss-76f234261155------2)
@@ -41,8 +43,6 @@ Computer Science Enginner & Tech Writer
 - [20 Writing Ideas For Your Next Big Story](https://abhayparashar31.medium.com/20-writing-ideas-for-your-next-big-story-aa2002add51a?source=rss-76f234261155------2)
 - [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
 - [The Simplest Guide To Finding Your Niche.](https://medium.com/the-growth-habit/the-simplest-guide-to-finding-your-niche-97ebfa73f1d8?source=rss-76f234261155------2)
-- [Motivational Stories of People Who Survived the Worst and Still Won at Life.](https://medium.com/the-growth-habit/motivational-stories-of-people-who-survived-the-worst-and-still-won-at-life-c780bb23dad9?source=rss-76f234261155------2)
-- [How To Overcome Setbacks In Your Life.](https://medium.com/the-growth-habit/how-to-overcome-setbacks-in-your-life-6297d59c9110?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
