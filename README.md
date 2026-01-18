@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Information Can You Extract From Just a Domain](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-domain-0cd022d84bb2?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An IP Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-ip-address-e917f1dd464e?source=rss-76f234261155------2)
 - [Are you bored?](https://medium.com/pythoneers/are-you-bored-1861719b1fb8?source=rss-76f234261155------2)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [What Information Can You Extract From Just An Email Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-email-address-38a673d09bfb?source=rss-76f234261155------2)
 - [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-a672c9eac04d?source=rss-76f234261155------2)
 - [20 Writing Ideas For Your Next Big Story](https://abhayparashar31.medium.com/20-writing-ideas-for-your-next-big-story-aa2002add51a?source=rss-76f234261155------2)
-- [14 Foundational Concepts Every Python Programmer Should Master](https://medium.com/pythoneers/14-foundational-concepts-every-python-programmer-should-master-ff02c494cd1a?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
