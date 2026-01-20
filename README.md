@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perfect Plotting Guide For Data Science Practitioners](https://levelup.gitconnected.com/the-perfect-plotting-guide-for-data-science-practitioners-020330daebb8?source=rss-76f234261155------2)
 - [How To Handle Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-handle-messy-data-in-machine-learning-projects-0a31a46c90c7?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Domain](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-domain-0cd022d84bb2?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An IP Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-ip-address-e917f1dd464e?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [Answering Most Asked Questions About the Dark Web](https://levelup.gitconnected.com/answering-most-asked-questions-about-the-dark-web-6991633f8248?source=rss-76f234261155------2)
 - [7 Things I Wish I Knew Before Starting To Invest](https://levelup.gitconnected.com/7-things-i-wish-i-knew-before-starting-to-invest-65ebc7a5d44b?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An Email Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-email-address-38a673d09bfb?source=rss-76f234261155------2)
-- [Will Vibe Coding Redefine the Future of Software Development?](https://medium.com/pythoneers/will-vibe-coding-redefine-the-future-of-software-development-a672c9eac04d?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
