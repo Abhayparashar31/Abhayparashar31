@@ -33,7 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Information Can You Extract From Just a Phone Number](https://medium.com/pythoneers/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
+- [What Information Can You Extract From Just a Phone Number](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
 - [What Exactly is DNS Tunneling?](https://medium.com/cybersharks/what-exactly-is-dns-tunneling-c1b867e0884b?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Hash](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-hash-67755f25eecc?source=rss-76f234261155------2)
 - [The Perfect Plotting Guide For Data Science Practitioners](https://levelup.gitconnected.com/the-perfect-plotting-guide-for-data-science-practitioners-020330daebb8?source=rss-76f234261155------2)
