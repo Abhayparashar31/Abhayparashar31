@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [File Extensions Hackers Love to Abuse](https://abhayparashar31.medium.com/file-extensions-hackers-love-to-abuse-2fc83e846d67?source=rss-76f234261155------2)
 - [14 Underrated Python Libraries I Wish I Knew 5 Years Ago](https://medium.com/pythoneers/14-underrated-python-libraries-i-wish-i-knew-5-years-ago-8d9ea4b55f84?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Phone Number](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
 - [What Exactly is DNS Tunneling?](https://medium.com/cybersharks/what-exactly-is-dns-tunneling-c1b867e0884b?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [What Information Can You Extract From Just a Domain](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-domain-0cd022d84bb2?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An IP Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-ip-address-e917f1dd464e?source=rss-76f234261155------2)
 - [Are you bored?](https://medium.com/pythoneers/are-you-bored-1861719b1fb8?source=rss-76f234261155------2)
-- [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
