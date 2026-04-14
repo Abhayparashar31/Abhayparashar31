@@ -39,7 +39,7 @@ Computer Science Enginner & Tech Writer
 - [What Information Can You Extract From Just a Phone Number](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
 - [What Exactly is DNS Tunneling?](https://medium.com/cybersharks/what-exactly-is-dns-tunneling-c1b867e0884b?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Hash](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-hash-67755f25eecc?source=rss-76f234261155------2)
-- [The Perfect Plotting Guide For Data Science Practitioners](https://levelup.gitconnected.com/the-perfect-plotting-guide-for-data-science-practitioners-020330daebb8?source=rss-76f234261155------2)
+- [The Perfect Plotting Guide For Data Science Practitioners](https://medium.com/gitconnected/the-perfect-plotting-guide-for-data-science-practitioners-020330daebb8?source=rss-76f234261155------2)
 - [How To Handle Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-handle-messy-data-in-machine-learning-projects-0a31a46c90c7?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Domain](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-domain-0cd022d84bb2?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just An IP Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-ip-address-e917f1dd464e?source=rss-76f234261155------2)
