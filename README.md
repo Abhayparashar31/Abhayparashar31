@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote 100+ Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-automation-scripts-these-11-changed-everything-01cd600ce64d?source=rss-76f234261155------2)
 - [21 Stock Market Indicators Explained in Plain English](https://medium.com/pythoneers/21-stock-market-indicators-explained-in-plain-english-51a2a2be78f8?source=rss-76f234261155------2)
 - [File Extensions Hackers Love to Abuse](https://abhayparashar31.medium.com/file-extensions-hackers-love-to-abuse-2fc83e846d67?source=rss-76f234261155------2)
 - [14 Underrated Python Libraries I Wish I Knew 5 Years Ago](https://medium.com/pythoneers/14-underrated-python-libraries-i-wish-i-knew-5-years-ago-8d9ea4b55f84?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [The Perfect Plotting Guide For Data Science Practitioners](https://levelup.gitconnected.com/the-perfect-plotting-guide-for-data-science-practitioners-020330daebb8?source=rss-76f234261155------2)
 - [How To Handle Messy Data in Machine Learning Projects](https://medium.com/pythoneers/how-to-handle-messy-data-in-machine-learning-projects-0a31a46c90c7?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Domain](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-domain-0cd022d84bb2?source=rss-76f234261155------2)
-- [What Information Can You Extract From Just An IP Address](https://medium.com/cybersharks/what-information-can-you-extract-from-just-an-ip-address-e917f1dd464e?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
