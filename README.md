@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [14 Amazing Open Source Tools You Need To Try](https://medium.com/pythoneers/14-amazing-open-source-tools-you-need-to-try-c0215246a106?source=rss-76f234261155------2)
 - [Apple Just Admitted It Can’t Win the AI Race](https://medium.com/macoclock/apple-just-admitted-it-cant-win-the-ai-race-785af38a2c3c?source=rss-76f234261155------2)
 - [9 Genius Apple Shortcuts to Simplify Your Life](https://medium.com/macoclock/9-genius-apple-shortcuts-to-simplify-your-life-b37517a8ed1e?source=rss-76f234261155------2)
 - [How to Spot LLM‑Generated Code &lpar;Even When It Looks Human&rpar;](https://levelup.gitconnected.com/how-to-spot-llm-generated-code-even-when-it-looks-human-3be736ceefa9?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [14 Underrated Python Libraries I Wish I Knew 5 Years Ago](https://medium.com/pythoneers/14-underrated-python-libraries-i-wish-i-knew-5-years-ago-8d9ea4b55f84?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Phone Number](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
 - [What Exactly is DNS Tunneling?](https://medium.com/cybersharks/what-exactly-is-dns-tunneling-c1b867e0884b?source=rss-76f234261155------2)
-- [What Information Can You Extract From Just a Hash](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-hash-67755f25eecc?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
