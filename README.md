@@ -1,6 +1,6 @@
-## Abhay Kumar Parashar
+## Abhay Kumar Parashar 
 
-Computer Science Enginner & Tech Writer
+Cyber Security Engineer & Tech Writer
 
 <!--
 [![twitter](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&color=161616)](https://twitter.com/abhayparashar31)  
@@ -60,13 +60,14 @@ Computer Science Enginner & Tech Writer
   <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 
+<!--
 ### Github Contribution Streak
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
 
 ### Visitor's Count
 <img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
-
+--!>
 
 <!-- ## Languages and Tools
 
