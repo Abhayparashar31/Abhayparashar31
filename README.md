@@ -33,6 +33,7 @@ Computer Science Enginner & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache Me Outside](https://medium.com/cybersharks/cache-me-outside-509f4df76a38?source=rss-76f234261155------2)
 - [Digital Footprint](https://medium.com/cybersharks/digital-footprint-0ef08770f080?source=rss-76f234261155------2)
 - [14 Amazing Open Source Tools You Need To Try](https://medium.com/pythoneers/14-amazing-open-source-tools-you-need-to-try-c0215246a106?source=rss-76f234261155------2)
 - [Apple Just Admitted It Can’t Win the AI Race](https://medium.com/macoclock/apple-just-admitted-it-cant-win-the-ai-race-785af38a2c3c?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Computer Science Enginner & Tech Writer
 - [21 Stock Market Indicators Explained in Plain English](https://medium.com/pythoneers/21-stock-market-indicators-explained-in-plain-english-51a2a2be78f8?source=rss-76f234261155------2)
 - [File Extensions Hackers Love to Abuse](https://abhayparashar31.medium.com/file-extensions-hackers-love-to-abuse-2fc83e846d67?source=rss-76f234261155------2)
 - [14 Underrated Python Libraries I Wish I Knew 5 Years Ago](https://medium.com/pythoneers/14-underrated-python-libraries-i-wish-i-knew-5-years-ago-8d9ea4b55f84?source=rss-76f234261155------2)
-- [What Information Can You Extract From Just a Phone Number](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-phone-number-044166a5bcb3?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
