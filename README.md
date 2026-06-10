@@ -33,7 +33,9 @@ Cyber Security Engineer & Tech Writer
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Have a Break](https://abhayparashar31.medium.com/have-a-break-10ea7298899e?source=rss-76f234261155------2)
+- [Dev Diaries](https://medium.com/cybersharks/dev-diaries-44ceeeb68145?source=rss-76f234261155------2)
+- [Missing Person](https://medium.com/cybersharks/missing-person-e81156c64e4a?source=rss-76f234261155------2)
+- [Have a Break](https://medium.com/cybersharks/have-a-break-10ea7298899e?source=rss-76f234261155------2)
 - [Cache Me Outside](https://medium.com/cybersharks/cache-me-outside-509f4df76a38?source=rss-76f234261155------2)
 - [Digital Footprint](https://medium.com/cybersharks/digital-footprint-0ef08770f080?source=rss-76f234261155------2)
 - [14 Amazing Open Source Tools You Need To Try](https://medium.com/pythoneers/14-amazing-open-source-tools-you-need-to-try-c0215246a106?source=rss-76f234261155------2)
@@ -41,8 +43,6 @@ Cyber Security Engineer & Tech Writer
 - [9 Genius Apple Shortcuts to Simplify Your Life](https://medium.com/macoclock/9-genius-apple-shortcuts-to-simplify-your-life-b37517a8ed1e?source=rss-76f234261155------2)
 - [How to Spot LLM‑Generated Code &lpar;Even When It Looks Human&rpar;](https://levelup.gitconnected.com/how-to-spot-llm-generated-code-even-when-it-looks-human-3be736ceefa9?source=rss-76f234261155------2)
 - [I Wrote 100+ Automation Scripts — These 11 Changed Everything](https://medium.com/pythoneers/i-wrote-100-automation-scripts-these-11-changed-everything-01cd600ce64d?source=rss-76f234261155------2)
-- [21 Stock Market Indicators Explained in Plain English](https://medium.com/pythoneers/21-stock-market-indicators-explained-in-plain-english-51a2a2be78f8?source=rss-76f234261155------2)
-- [File Extensions Hackers Love to Abuse](https://abhayparashar31.medium.com/file-extensions-hackers-love-to-abuse-2fc83e846d67?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
