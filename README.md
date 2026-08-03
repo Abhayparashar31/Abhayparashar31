@@ -59,8 +59,8 @@ Cyber Security Engineer & Researcher | Threat Intelligence | OSINT | Technical W
   <a href="https://www.kaggle.com/abhayparashar31"><img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:abhayparashar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
-
-### A List of My Favourite OSINT Tools: <a href="https://start.me/p/xj5yzR/osint-tools">Start.me Page</>
+---
+> A List of My Favourite OSINT Tools: <a href="https://start.me/p/xj5yzR/osint-tools">Start.me Page</a>
 
 <!--
 ### Github Contribution Streak
