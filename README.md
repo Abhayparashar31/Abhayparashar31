@@ -33,6 +33,7 @@ Cyber Security Engineer & Researcher | Threat Intelligence | OSINT | Technical W
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Very Useful AI Study Tools You Never Knew Existed](https://abhayparashar31.medium.com/15-very-useful-ai-study-tools-you-never-knew-existed-00c7a75a44bb?source=rss-76f234261155------2)
 - [17 OSINT Techniques That Pros Use to Speedrun CTF Challenges](https://levelup.gitconnected.com/17-osint-techniques-that-pros-use-to-speedrun-ctf-challenges-498cb20dfbf4?source=rss-76f234261155------2)
 - [14 Underrated Python Libraries I Wish I Knew 5 Years Ago](https://levelup.gitconnected.com/14-underrated-python-libraries-i-wish-i-knew-5-years-ago-9046446254a7?source=rss-76f234261155------2)
 - [What Information Can You Extract From Just a Picture](https://medium.com/cybersharks/what-information-can-you-extract-from-just-a-picture-9fa10f4a29f5?source=rss-76f234261155------2)
@@ -42,7 +43,6 @@ Cyber Security Engineer & Researcher | Threat Intelligence | OSINT | Technical W
 - [Cache Me Outside](https://medium.com/cybersharks/cache-me-outside-509f4df76a38?source=rss-76f234261155------2)
 - [Digital Footprint](https://medium.com/cybersharks/digital-footprint-0ef08770f080?source=rss-76f234261155------2)
 - [14 Amazing Open Source Tools You Need To Try](https://medium.com/pythoneers/14-amazing-open-source-tools-you-need-to-try-c0215246a106?source=rss-76f234261155------2)
-- [Apple Just Admitted It Can’t Win the AI Race](https://medium.com/macoclock/apple-just-admitted-it-cant-win-the-ai-race-785af38a2c3c?source=rss-76f234261155------2)
 <!-- BLOG-POST-LIST:END -->
 
 ↳ [more articles...](https://medium.com/@abhayparashar31)
